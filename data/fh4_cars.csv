@@ -1,0 +1,753 @@
+images,name,class,pi,category,transmission,power_hp,weight_lbs,price,speed,handling,acceleration,breaking
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_046.jpg,2017 Abarth 124 SPIDER,C,577,MODERN SPORTS CARS,RWD,165,2478,43500,6.0,5.9,5.6,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_259.jpg,2016 Abarth 695 BIPOSTO,B,607,HOT HATCH,FWD,186,2198,48000,5.7,6.3,5.9,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_127.jpg,1980 Abarth FIAT 131,D,449,CLASSIC RALLY,RWD,139,2161,38000,5.5,4.7,5.5,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_249.jpg,1968 Abarth 595 ESSEESSE,D,100,CULT CARS,RWD,28,1257,35000,3.9,4.0,3.7,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_358.jpg,2017 Acura NSX,S1,850,MODERN SUPERCARS,AWD,572,3803,170000,7.4,7.6,9.6,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_264.jpg,2002 Acura RSX TYPE-S,C,588,RETRO HOT HATCH,FWD,200,2820,25000,6.3,5.8,5.6,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_085.jpg,2001 Acura INTEGRA TYPE-R,C,596,RETRO HOT HATCH,FWD,194,2639,25000,6.3,5.8,5.6,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_528.jpg?v=1,2018 Alfa Romeo STELVIO QUADRIFOGLIO,A,752,SPORTS UTILITY HEROES,AWD,506,4361,80000,7.2,5.9,9.0,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_238.jpg,2017 Alfa Romeo GIULIA QUADRIFOGLIO,A,795,SUPER SALOONS,RWD,505,3750,120000,7.7,7.2,6.9,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_058.jpg,2016 Alfa Romeo GIULIA QUADRIFOGLIO FORZA EDITION,S1,812,SUPER SALOONS,RWD,505,3823,370000,7.7,7.5,7.3,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_393.jpg,2014 Alfa Romeo 4C,A,770,MODERN SPORTS CARS,RWD,240,2072,74000,6.6,7.1,6.5,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_137.jpg,2007 Alfa Romeo 8C COMPETIZIONE,A,777,GT CARS,RWD,450,3494,300000,7.5,6.6,6.6,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_312.jpg,2007 Alfa Romeo 8C COMPETIZIONE FORZA EDITION,S1,855,GT CARS,RWD,450,3086,550000,7.5,8.4,8.0,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_730.jpg?v=1,1992 Alfa Romeo 155 Q4,C,541,RETRO SALOONS,AWD,186,3064,250000,6.2,5.0,5.8,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_241.jpg,1968 Alfa Romeo 33 STRADALE,A,716,CLASSIC RACERS,RWD,245,1543,10000000,6.9,5.8,6.9,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_075.jpg,1965 Alfa Romeo GIULIA SPRINT GTA STRADALE,D,432,RARE CLASSICS,RWD,115,1676,300000,5.1,4.6,5.4,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_062.jpg,1965 Alfa Romeo GIULIA TZ2,B,639,CLASSIC RACERS,RWD,170,1367,2500000,6.3,5.7,5.8,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_512.jpg,1934 Alfa Romeo P3,B,626,VINTAGE RACERS,RWD,286,1653,10000000,6.6,5.0,5.6,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_662.jpg?v=5,2017 Alpine A110,A,740,MODERN SPORTS CARS,RWD,248,2432,250000,6.7,7.0,6.9,6.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_163.jpg,2015 Alumi Craft CLASS 10 RACE CAR,B,673,OFFROADS BUGGIES,RWD,196,2200,100000,5.3,6.5,6.6,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_162.jpg,2015 Alumi Craft CLASS 10 RACE CAR FORZA EDITION,B,679,OFFROADS BUGGIES,RWD,196,2094,350000,5.3,6.5,6.8,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_068.jpg,1973 AMC GREMLIN X,D,394,CULT CARS,RWD,150,2840,35000,5.0,4.4,5.2,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_105.jpg,1971 AMC JAVELIN AMX,C,512,CLASSIC MUSCLE,RWD,330,3446,35000,5.4,4.5,5.2,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_624.jpg?v=1,"1970 AMC REBEL ""THE MACHINE""",C,451,CLASSIC MUSCLE,RWD,341,3651,250000,5.9,4.6,5.3,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_148.jpg,2554 AMG TRANSPORT DYNAMICS M12S WARTHOG CST,A,756,EXTREME OFFROAD,AWD,720,5071,850000,5.2,7.1,9.7,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_617.jpg?v=1,2018 Apollo INTENSA EMOZIONE,S2,984,EXTREME TRACK TOYS,RWD,780,2756,1050000,7.9,10.0,8.3,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_496.jpg,2016 Ariel NOMAD,A,732,OFFROADS BUGGIES,RWD,236,1477,93000,6.0,6.3,7.6,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_276.jpg,2013 Ariel ATOM 500 V8,S2,970,EXTREME TRACK TOYS,RWD,475,1433,108000,7.0,10.0,8.6,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_003.jpg,2012 Ascari KZ1R,S1,866,MODERN SUPERCARS,RWD,520,2976,240000,7.9,8.6,7.4,8.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_640.jpg?v=1,2019 Aston Martin DBS SUPERLEGGERA,S1,853,SUPER GT,RWD,715,3966,250000,8.2,7.4,6.9,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_533.jpg?v=1,2018 Aston Martin Vantage,S1,822,SUPER GT,RWD,503,3497,430000,7.5,7.5,6.9,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_318.jpg,2017 Aston Martin DB11,S1,810,SUPER GT,RWD,607,4134,300000,7.8,7.1,6.8,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_479.jpg,2017 Aston Martin DB11 PREORDER CAR,S1,900,SUPER GT,RWD,800,2866,300000,8.9,8.2,6.7,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_641.jpg?v=1,2017 Aston Martin VANQUISH ZAGATO COUPE,S1,824,SUPER GT,RWD,595,3891,250000,7.8,7.3,6.9,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_676.jpg?v=1,2017 Aston Martin VULCAN AMR PRO,S2,954,EXTREME TRACK TOYS,RWD,819,2998,1500000,7.7,10.0,7.5,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_172.jpg,2016 Aston Martin VANTAGE GT12,S1,846,TRACK TOYS,RWD,592,3450,400000,7.2,8.4,6.9,9.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_439.jpg,2016 Aston Martin VULCAN,S2,954,EXTREME TRACK TOYS,RWD,819,2998,1500000,8.1,10.0,7.5,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_099.jpg,2016 Aston Martin VULCAN FORZA EDITION,S2,955,EXTREME TRACK TOYS,RWD,819,2998,1750000,8.1,10.0,7.5,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_144.jpg,2013 Aston Martin V12 VANTAGE S,S1,814,SUPER GT,RWD,564,3671,240000,8.2,6.9,6.6,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_478.jpg,2012 Aston Martin VANQUISH,S1,802,SUPER GT,RWD,564,3834,348000,7.9,7.0,6.7,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_315.jpg,2010 Aston Martin ONE-77,S1,863,SUPER GT,RWD,749,3307,1400000,8.3,7.5,7.1,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_419.jpg,1964 Aston Martin DB5,C,534,RARE CLASSICS,RWD,324,3230,800000,6.2,4.7,5.6,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_501.jpg,1960 Aston Martin DB4 GT ZAGATO,B,619,CLASSIC SPORTS CARS,RWD,314,2701,500000,6.9,5.4,4.6,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_063.jpg,1958 Aston Martin DBR1,B,688,CLASSIC RACERS,RWD,253,1929,10000000,7.1,5.6,5.3,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_660.jpg?v=1,2018 ATS GT,S1,894,MODERN SUPERCARS,RWD,720,2985,250000,8.3,8.0,7.7,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_184.jpg,2016 Audi R8 V10 PLUS,S1,856,MODERN SUPERCARS,AWD,610,3428,242000,8.2,7.5,9.1,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_399.jpg,2015 Audi RS 6 AVANT,A,778,SUPER SALOONS,AWD,552,4266,150000,7.8,6.2,8.8,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_261.jpg,2015 Audi S1,B,679,HOT HATCH,AWD,228,2899,35000,6.3,6.3,6.8,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_230.jpg,2015 Audi TTS COUPE,A,740,MODERN SPORTS CARS,AWD,310,3053,52000,7.4,6.4,7.3,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_183.jpg,2013 Audi COUPE R8 V10 PLUS 5.2 FSI QUATTRO,S1,824,MODERN SUPERCARS,AWD,542,3682,290000,7.8,7.2,8.5,7.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_234.jpg,2013 Audi RS 4 AVANT,A,750,SUPER SALOONS,AWD,444,3957,83000,7.5,6.2,7.0,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_054.jpg,2013 Audi RS 7 SPORTBACK,A,761,SUPER SALOONS,AWD,552,4310,225000,8.0,6.1,8.3,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_089.jpg,2011 Audi RS 3 SPORTBACK,B,699,SUPER HOT HATCH,AWD,335,3472,42000,6.7,6.1,6.8,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_398.jpg,2011 Audi RS 5 COUPE,A,750,SUPER SALOONS,AWD,442,3829,88000,7.3,6.5,7.3,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_045.jpg,2010 Audi TT RS COUPE,A,722,MODERN SPORTS CARS,AWD,335,3294,66000,7.2,6.3,7.3,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_053.jpg,2009 Audi RS6,A,743,SUPER SALOONS,AWD,570,4376,155000,8.0,6.2,7.6,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_233.jpg,2006 Audi RS 4,A,729,SUPER SALOONS,AWD,420,3638,53000,7.5,6.2,7.5,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_211.jpg,2003 Audi RS 6,A,710,RETRO SALOONS,AWD,450,4023,105000,7.4,5.9,6.7,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_030.jpg,2001 Audi RS 4 AVANT,B,695,RETRO SALOONS,AWD,375,4012,94000,7.1,6.0,7.1,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_212.jpg,1995 Audi RS 2 AVANT,B,616,RETRO SALOONS,AWD,311,3516,50000,6.7,5.3,6.6,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_469.jpg,1986 Audi #2 AUDI SPORT QUATTRO S1,S1,850,RALLY MONSTERS,AWD,469,2403,375000,6.9,8.0,9.5,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_462.jpg,1983 Audi SPORT QUATTRO,B,621,RETRO RALLY,AWD,306,2806,175000,6.4,5.2,7.1,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_251.jpg,1964 Austin FX4 TAXI,D,100,CULT CARS,RWD,68,3527,20000,4.5,3.8,3.6,3.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_731.jpg?v=1,1924 Austin SEVEN,D,100,RARE CLASSICS,RWD,11,772,250000,3.1,4.1,3.0,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_339.jpg,1965 Austin-Healey 3000 MKIII,D,326,CLASSIC SPORTS CARS,RWD,148,2604,50000,5.7,4.0,5.1,3.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_340.jpg,1958 Austin-Healey SPRITE MKI,D,100,CLASSIC SPORTS CARS,RWD,46,802,20000,4.3,4.0,3.9,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_181.jpg,1939 Auto Union TYPE D,B,692,VINTAGE RACERS,RWD,485,2815,10000000,8.7,5.1,6.0,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_173.jpg,2014 BAC MONO,S1,900,TRACK TOYS,RWD,280,1354,160000,6.8,10.0,7.5,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_139.jpg,2017 Bentley CONTINENTAL SUPERSPORTS,A,798,GT CARS,AWD,700,5029,200000,8.0,6.3,9.2,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_326.jpg,2016 Bentley BENTAYGA,A,758,SPORTS UTILITY HEROES,AWD,599,5340,180000,7.5,6.1,7.6,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_140.jpg,2013 Bentley CONTINENTAL GT SPEED,A,774,GT CARS,AWD,617,5115,242000,8.0,6.3,7.8,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_504.jpg,2013 Bentley CONTINENTAL GT SPEED FORZA EDITION,S1,835,TRACK TOYS,AWD,617,5115,492000,8.0,7.9,7.9,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_705.jpg?v=1,1991 Bentley TURBO R,C,546,RETRO SALOONS,RWD,329,5313,250000,6.2,5.0,4.9,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_180.jpg,1931 Bentley 4-1/2 LITER SUPERCHARGED,D,200,VINTAGE RACERS,RWD,174,4396,10000000,4.8,3.7,4.0,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_421.jpg,1931 Bentley 8-LITER,D,176,RARE CLASSICS,RWD,220,5600,1500000,4.8,3.7,4.7,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_595.jpg?v=1,2019 BMW Z4 Roadster,A,772,MODERN SPORTS CARS,RWD,382,3252,35000,7.2,6.7,6.8,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_517.jpg?v=2,2018 BMW i8 ROADSTER,A,776,MODERN SUPERCARS,AWD,357,3671,150000,7.6,6.4,8.5,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_545.jpg?v=3,2018 BMW M5,S1,806,SUPER SALOONS,AWD,599,4370,105000,8.0,6.5,9.3,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_400.jpg,2016 BMW M2 COUPE,A,737,SUPER SALOONS,RWD,365,3450,69000,7.1,6.3,6.4,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_342.jpg,2016 BMW M4 GTS,S1,841,TRACK TOYS,RWD,493,3329,135000,7.4,8.1,6.7,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_353.jpg,2015 BMW I8,A,785,MODERN SUPERCARS,AWD,357,3380,140000,7.7,6.6,9.0,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_327.jpg,2015 BMW X6 M,A,727,SPORTS UTILITY HEROES,AWD,567,5185,130000,7.1,6.0,7.5,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_056.jpg,2014 BMW M4 COUPE,A,800,SUPER SALOONS,RWD,430,3389,92000,7.7,6.9,6.5,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_314.jpg,2013 BMW M6 COUPE,A,779,GT CARS,RWD,560,4255,120000,7.9,6.3,6.3,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_476.jpg,2013 BMW M6 COUPE FORZA EDITION,A,780,GT CARS,RWD,560,4255,370000,7.9,6.3,6.3,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_236.jpg,2012 BMW M5,A,790,SUPER SALOONS,RWD,552,4123,112000,7.9,6.6,6.5,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_402.jpg,2011 BMW 1 SERIES M COUPE,A,731,SUPER SALOONS,RWD,335,3296,55000,7.0,6.4,6.4,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_489.jpg,2011 BMW X5 M,A,708,SPORTS UTILITY HEROES,AWD,547,5368,100000,7.0,5.8,7.4,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_391.jpg,2011 BMW Z4 SDRIVE35IS,A,727,MODERN SPORTS CARS,RWD,335,3362,58000,7.2,6.2,6.5,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_657.jpg?v=1,2010 BMW M3 GTS,S1,814,TRACK TOYS,RWD,444,3408,250000,7.4,7.6,6.6,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_055.jpg,2009 BMW M5,A,758,SUPER SALOONS,RWD,500,4012,90000,7.6,6.5,6.5,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_401.jpg,2008 BMW M3,A,745,SUPER SALOONS,RWD,414,3649,48000,7.3,6.3,6.3,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_050.jpg,2008 BMW Z4 M COUPE,A,710,MODERN SPORTS CARS,RWD,330,3296,82000,7.0,6.5,6.6,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_210.jpg,2005 BMW M3,A,706,RETRO SALOONS,RWD,332,3415,33000,7.0,6.1,6.4,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_378.jpg,2003 BMW M5,A,719,RETRO SALOONS,RWD,394,3900,30000,7.6,6.0,6.3,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_602.jpg?v=1,2002 BMW M3-GTR,A,765,TRACK TOYS,RWD,374,3095,120000,7.2,6.9,6.6,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_388.jpg,2002 BMW Z3 M COUPE,A,713,RETRO SPORTS CARS,RWD,315,3170,30000,6.8,6.1,6.4,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_031.jpg,1997 BMW M3,B,694,RETRO SALOONS,RWD,320,3219,35000,7.1,5.9,6.3,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_725.jpg?v=1,1995 BMW 850CSI,B,612,RETRO SPORTS CARS,RWD,371,4239,250000,7.3,5.2,6.1,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_213.jpg,1995 BMW M5,B,634,RETRO SALOONS,RWD,342,3772,25000,7.3,5.5,6.1,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_032.jpg,1991 BMW M3,C,586,RETRO SALOONS,RWD,214,2762,70000,6.4,5.4,6.0,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_209.jpg,1988 BMW M5,C,594,RETRO SALOONS,RWD,282,3230,54000,6.5,5.3,6.0,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_380.jpg,1988 BMW M5 FORZA EDITION,B,601,RETRO SALOONS,RWD,282,3230,304000,6.5,5.3,6.0,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_010.jpg,1981 BMW M1,B,652,RETRO SUPERCARS,RWD,277,2866,585000,6.6,5.4,6.1,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_170.jpg,1973 BMW 2002 TURBO,D,500,CLASSIC SPORTS CARS,RWD,168,2381,26000,5.8,4.6,5.5,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_413.jpg,1957 BMW ISETTA 300 EXPORT,D,100,CULT CARS,RWD,13,919,45000,3.2,4.0,3.3,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_483.jpg,2012 Bowler EXR S,A,760,EXTREME OFFROAD,AWD,550,3858,200000,6.8,6.2,8.8,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_654.jpg?v=1,2019 Bugatti DIVO,S2,958,EXTREME TRACK TOYS,AWD,1479,4321,250000,9.3,9.2,9.9,9.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_370.jpg,2018 Bugatti CHIRON,S2,938,HYPERCARS,AWD,1479,4398,2400000,10.0,8.3,9.8,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_372.jpg,2011 Bugatti VEYRON SUPER SPORT,S2,922,HYPERCARS,AWD,1182,4043,2200000,9.9,8.0,9.9,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_015.jpg,1992 Bugatti EB110 SUPER SPORT,S1,829,RETRO SUPERCARS,AWD,611,3126,1700000,8.5,7.1,9.2,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_511.jpg,1926 Bugatti TYPE 35 C,D,374,VINTAGE RACERS,RWD,95,1676,10000000,5.0,4.9,4.4,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_456.jpg,1987 Buick REGAL GNX,C,567,RETRO MUSCLE,RWD,300,3545,130000,6.5,4.7,5.6,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_622.jpg?v=1,1970 Buick GSX,C,572,CLASSIC MUSCLE,RWD,359,3874,250000,6.0,4.8,5.1,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_459.jpg,2016 Cadillac ATS-V,A,737,MODERN MUSCLE,RWD,464,3699,65000,7.5,6.2,6.4,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_297.jpg,2016 Cadillac CTS-V SEDAN,A,785,MODERN MUSCLE,RWD,639,4127,80000,7.7,6.2,6.3,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_235.jpg,2013 Cadillac XTS LIMOUSINE,C,534,SUPER SALOONS,FWD,304,5501,48500,6.1,5.7,4.6,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_592.jpg?v=1,2012 Cadillac ESCALADE ESV,C,564,SPORTS UTILITY HEROES,AWD,404,5981,250000,6.0,5.7,5.0,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_588.jpg?v=1,1959 Cadillac ELDORADO BIARRITZ CONVERTIBLE,D,400,RODS AND CUSTOMS,RWD,345,5060,60000,5.9,4.4,5.2,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_529.jpg?v=1,2018 Can-Am MAVERICK X RS TURBO R,B,692,OFFROADS BUGGIES,AWD,172,1656,25000,5.0,6.5,8.2,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_171.jpg,2013 Caterham SUPERLIGHT R500,S1,804,TRACK TOYS,RWD,263,1116,82000,6.4,6.9,6.8,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_341.jpg,2013 Caterham SUPERLIGHT R500 FORZA EDITION,S1,804,TRACK TOYS,RWD,263,1116,332000,6.4,7.0,6.7,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_734.jpg?v=1,2020 Chevrolet C8 CORVETTE STINGRAY COUPE,S1,830,MODERN SUPERCARS,RWD,495,3578,250000,7.5,7.6,7.7,7.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_555.jpg?v=1,2019 Chevrolet Corvette ZR1,S1,895,TRACK TOYS,RWD,755,3560,255000,8.1,8.5,7.5,9.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_556.jpg?v=1,2018 Chevrolet CAMARO ZL1 1LE,S1,849,TRACK TOYS,RWD,650,3836,105000,7.5,8.4,7.0,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_537.jpg?v=2,2018 Chevrolet Silverado 1500 DeBerti Design,S1,849,EXTREME TRACK TOYS,RWD,1006,3501,300000,7.2,7.6,6.6,7.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_460.jpg,2017 Chevrolet CAMARO ZL1,S1,848,MODERN MUSCLE,RWD,650,3882,60000,7.8,8.0,7.3,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_298.jpg,2017 Chevrolet CAMARO ZL1 PREORDER CAR,S1,900,MODERN MUSCLE,RWD,650,2866,60000,8.3,8.8,7.3,9.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_160.jpg,2017 Chevrolet COLORADO ZR2,C,598,OFFROAD,AWD,308,4733,46000,6.1,5.7,5.7,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_343.jpg,2015 Chevrolet CAMARO Z/28,S1,818,TRACK TOYS,RWD,505,3836,86000,7.2,7.7,6.6,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_123.jpg,2015 Chevrolet CORVETTE Z06,S1,871,MODERN MUSCLE,RWD,650,2875,110000,7.9,8.2,7.0,8.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_121.jpg,2009 Chevrolet CORVETTE ZR1,S1,824,MODERN MUSCLE,RWD,638,3351,125000,8.2,7.1,6.7,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_115.jpg,2002 Chevrolet CORVETTE Z06,A,748,RETRO MUSCLE,RWD,405,3120,35000,7.7,6.5,6.0,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_631.jpg?v=1,1996 Chevrolet Impala SS,C,510,RETRO MUSCLE,RWD,260,4037,250000,5.9,4.8,5.4,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_292.jpg,1995 Chevrolet CORVETTE ZR-1,A,741,RETRO MUSCLE,RWD,405,3505,45000,7.1,6.3,6.4,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_733.jpg?v=1,1990 Chevrolet CAMARO IROC-Z,C,512,RETRO MUSCLE,RWD,245,3627,250000,6.5,4.6,5.1,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_116.jpg,1988 Chevrolet MONTE CARLO SUPER SPORT,D,415,RETRO MUSCLE,RWD,180,3523,25000,5.9,4.5,5.0,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_103.jpg,1979 Chevrolet CAMARO Z28,D,460,CLASSIC MUSCLE,RWD,174,3560,35000,5.5,4.8,5.3,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_443.jpg,1970 Chevrolet CAMARO Z28,C,547,CLASSIC MUSCLE,RWD,359,3549,53000,6.0,4.7,5.2,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_106.jpg,1970 Chevrolet CHEVELLE SUPER SPORT 454,C,542,CLASSIC MUSCLE,RWD,450,3799,80000,5.6,4.6,5.1,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_605.jpg?v=1,1970 Chevrolet Chevelle Super Sport Barrett-Jackson Edition,A,757,CLASSIC MUSCLE,RWD,620,3898,105000,7.8,5.9,6.1,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_104.jpg,1970 Chevrolet CORVETTE ZR-1,B,605,CLASSIC MUSCLE,RWD,370,3373,310000,5.8,5.1,5.6,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_381.jpg,1970 Chevrolet EL CAMINO SUPER SPORT 454,C,556,VANS AND UTILITY,RWD,450,3821,65000,6.6,4.6,5.0,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_108.jpg,1969 Chevrolet CAMARO SUPER SPORT COUPE,C,566,CLASSIC MUSCLE,RWD,375,3527,110000,5.9,4.9,5.3,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_109.jpg,1969 Chevrolet NOVA SUPER SPORT 396,C,552,CLASSIC MUSCLE,RWD,375,3470,47000,6.2,4.6,5.3,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_285.jpg,1969 Chevrolet NOVA SUPER SPORT 396 FORZA EDITION,B,657,CLASSIC MUSCLE,RWD,375,3470,297000,6.7,6.1,5.1,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_615.jpg?v=1,1967 Chevrolet CHEVELLE SUPER SPORT 396,C,561,CLASSIC MUSCLE,RWD,375,3585,250000,6.5,4.6,5.2,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_448.jpg,1967 Chevrolet CORVETTE STINGRAY 427,B,621,CLASSIC MUSCLE,RWD,434,3384,150000,6.3,5.0,5.6,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_447.jpg,1966 Chevrolet NOVA SUPER SPORT,C,582,CLASSIC MUSCLE,RWD,350,3146,70000,6.2,4.8,5.4,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_111.jpg,1964 Chevrolet IMPALA SUPER SPORT 409,C,527,RODS AND CUSTOMS,RWD,425,3878,46000,6.3,4.3,5.1,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_336.jpg,1960 Chevrolet CORVETTE,C,521,CLASSIC SPORTS CARS,RWD,290,3080,150000,6.2,4.6,5.2,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_290.jpg,1957 Chevrolet BEL AIR,D,444,RODS AND CUSTOMS,RWD,220,3338,130000,5.7,4.3,4.7,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_113.jpg,1955 Chevrolet 150 UTILITY SEDAN,D,286,RODS AND CUSTOMS,RWD,180,3309,35000,5.4,3.8,5.0,3.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_166.jpg,1953 Chevrolet CORVETTE,D,347,CLASSIC SPORTS CARS,RWD,160,2899,135000,4.7,4.4,4.2,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_446.jpg,1972 Chrysler VH VALIANT CHARGER R/T E49,C,557,CLASSIC MUSCLE,RWD,302,3031,60000,5.9,4.7,5.2,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_749.jpg?v=1,1975 Citroën DS 23,D,262,CULT CARS,FWD,114,2954,250000,5.1,4.6,4.2,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_072.jpg,1970 Datsun 510,D,209,CULT CARS,RWD,97,2127,25000,4.8,3.9,4.7,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_119.jpg,2018 Dodge CHALLENGER SRT DEMON,S1,823,MODERN MUSCLE,RWD,839,4248,150000,8.2,7.0,6.3,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_152.jpg,2018 Dodge DURANGO SRT,A,709,SPORTS UTILITY HEROES,AWD,475,5509,70000,6.9,5.9,7.3,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_503.jpg,2016 Dodge VIPER ACR,S1,893,TRACK TOYS,RWD,645,3369,150000,6.9,9.8,7.6,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_458.jpg,2015 Dodge CHALLENGER SRT HELLCAT,A,776,MODERN MUSCLE,RWD,706,4438,75000,8.1,6.1,5.9,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_457.jpg,2015 Dodge CHARGER SRT HELLCAT,A,785,MODERN MUSCLE,RWD,706,4575,80000,8.2,6.1,6.1,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_295.jpg,2013 Dodge SRT VIPER GTS,S1,831,MODERN MUSCLE,RWD,639,3296,95000,8.0,7.3,7.0,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_505.jpg,2008 Dodge VIPER SRT10 ACR,S1,866,TRACK TOYS,RWD,599,3408,90000,7.5,9.2,7.1,9.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_117.jpg,1999 Dodge VIPER GTS ACR,A,732,RETRO MUSCLE,RWD,460,3450,75000,7.4,5.9,6.6,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_283.jpg,1970 Dodge CHALLENGER R/T,C,562,CLASSIC MUSCLE,RWD,425,3801,210000,6.2,4.7,5.2,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_284.jpg,1969 Dodge CHARGER DAYTONA HEMI,C,595,CLASSIC MUSCLE,RWD,425,3876,900000,5.9,5.2,5.4,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_107.jpg,1969 Dodge CHARGER R/T,C,558,CLASSIC MUSCLE,RWD,425,3671,103000,5.9,4.7,5.3,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_101.jpg,1968 Dodge DART HEMI SUPER STOCK,B,626,CLASSIC MUSCLE,RWD,425,3020,125000,5.4,4.9,5.5,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_347.jpg,2013 Donkervoort D8 GTO,S1,827,TRACK TOYS,RWD,375,1532,175000,6.9,7.4,6.7,7.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_565.jpg?v=1,2011 DS Automobiles DS 3 RACING,B,624,HOT HATCH,FWD,204,2568,38000,6.1,6.0,5.8,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_225.jpg,2012 Eagle SPEEDSTER,A,740,MODERN SPORTS CARS,RWD,330,2330,550000,6.8,6.5,6.1,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_548.jpg?v=2,2018 Exomotive Exocet Off-Road,A,729,OFFROADS BUGGIES,RWD,252,1572,50000,5.4,7.7,6.8,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_658.jpg?v=2,2019 Ferrari 488 PISTA,S2,912,TRACK TOYS,RWD,711,3053,250000,8.0,9.0,8.0,9.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_682.jpg?v=1,2018 Ferrari PORTOFINO,S1,834,SUPER GT,RWD,591,3668,215000,8.2,7.3,7.2,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_480.jpg,2017 Ferrari 812 SUPERFAST,S1,897,SUPER GT,RWD,788,3594,1400000,8.3,8.1,7.1,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_559.jpg?v=1,2017 Ferrari GTC4Lusso,S1,840,SUPER GT,AWD,680,4233,430000,8.0,7.3,8.2,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_191.jpg,2015 Ferrari 488 GTB,S1,883,MODERN SUPERCARS,RWD,660,3252,290000,8.5,8.1,7.5,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_375.jpg,2015 Ferrari F12TDF,S2,901,HYPERCARS,RWD,768,3351,500000,8.8,8.3,7.3,9.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_319.jpg,2014 Ferrari CALIFORNIA T,S1,804,SUPER GT,RWD,554,3814,240000,7.7,6.7,6.8,7.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_097.jpg,2014 Ferrari FXX K,S2,989,EXTREME TRACK TOYS,RWD,1035,2831,2700000,8.1,10.0,8.8,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_357.jpg,2013 Ferrari 458 SPECIALE,S1,885,MODERN SUPERCARS,RWD,597,3075,340000,8.1,8.2,7.6,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_208.jpg,2013 Ferrari LAFERRARI,S2,966,HYPERCARS,RWD,962,3031,1500000,9.5,9.8,8.2,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_614.jpg?v=1,2012 Ferrari 599XX EVOLUTION,S2,979,EXTREME TRACK TOYS,RWD,740,3031,250000,8.9,10.0,8.1,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_481.jpg,2012 Ferrari F12BERLINETTA,S1,868,SUPER GT,RWD,729,3594,380000,8.3,7.3,7.1,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_007.jpg,2011 Ferrari FF,S1,815,MODERN SUPERCARS,AWD,650,4145,255000,8.1,6.6,7.5,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_145.jpg,2010 Ferrari 599 GTO,S1,861,SUPER GT,RWD,661,3538,690000,8.3,7.9,7.3,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_436.jpg,2010 Ferrari 599XX,S2,937,EXTREME TRACK TOYS,RWD,690,3351,1000000,7.8,9.4,7.9,9.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_360.jpg,2009 Ferrari 458 ITALIA,S1,846,MODERN SUPERCARS,RWD,562,3274,225000,8.1,7.3,7.3,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_190.jpg,2007 Ferrari 430 SCUDERIA,S1,834,MODERN SUPERCARS,RWD,503,2974,300000,8.0,7.4,7.2,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_535.jpg?v=1,2005 Ferrari FXX,S2,961,EXTREME TRACK TOYS,RWD,789,2732,2500000,8.3,10.0,8.7,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_013.jpg,2003 Ferrari 360 CHALLENGE STRADALE,A,792,RETRO SUPERCARS,RWD,409,2844,200000,7.5,7.0,7.1,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_194.jpg,2002 Ferrari 575M MARANELLO,A,772,RETRO SUPERCARS,RWD,508,3814,140000,7.9,6.2,6.6,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_012.jpg,2002 Ferrari ENZO FERRARI,S1,874,RETRO SUPERCARS,RWD,650,3086,2800000,8.4,8.0,7.4,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_273.jpg,1996 Ferrari F50 GT,S2,992,EXTREME TRACK TOYS,RWD,749,2002,1200000,8.4,10.0,8.4,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_708.jpg?v=1,1996 Ferrari Welcome Pack F50 GT,S2,998,EXTREME TRACK TOYS,RWD,750,2002,1200000,8.4,10.0,8.3,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_366.jpg,1995 Ferrari F50,S1,815,RETRO SUPERCARS,RWD,513,2976,2000000,7.8,7.1,7.2,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_016.jpg,1994 Ferrari F355 BERLINETTA,A,737,RETRO SUPERCARS,RWD,375,3197,190000,7.4,6.3,6.2,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_198.jpg,1992 Ferrari 512 TR,A,754,RETRO SUPERCARS,RWD,421,3691,270000,7.9,6.3,6.6,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_096.jpg,1989 Ferrari F40 COMPETIZIONE,S2,961,EXTREME TRACK TOYS,RWD,690,2315,3000000,8.5,10.0,7.0,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_197.jpg,1987 Ferrari F40,S1,807,RETRO SUPERCARS,RWD,477,2981,1200000,7.7,7.0,7.5,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_196.jpg,1984 Ferrari 288 GTO,A,768,RETRO SUPERCARS,RWD,395,2822,3100000,7.8,6.2,6.8,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_659.jpg?v=1,1970 Ferrari 512 S,S1,872,CLASSIC RACERS,RWD,542,2090,250000,8.0,8.0,7.9,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_077.jpg,1969 Ferrari DINO 246 GT,C,512,RARE CLASSICS,RWD,194,2381,425000,6.0,4.8,5.0,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_255.jpg,1968 Ferrari 365 GTB/4,B,641,RARE CLASSICS,RWD,405,3600,600000,7.5,5.1,5.9,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_246.jpg,1967 Ferrari #24 FERRARI SPA 330 P4,A,799,CLASSIC RACERS,RWD,450,2271,10000000,7.6,6.8,7.3,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_411.jpg,1963 Ferrari 250LM,A,732,CLASSIC RACERS,RWD,315,2094,10000000,7.1,6.0,5.1,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_074.jpg,1962 Ferrari 250 GT BERLINETTA LUSSO,C,568,RARE CLASSICS,RWD,251,2249,2600000,6.3,4.7,5.6,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_067.jpg,1962 Ferrari 250 GTO,B,679,CLASSIC RACERS,RWD,300,2299,10000000,7.0,5.6,5.3,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_252.jpg,1957 Ferrari 250 CALIFORNIA,C,540,RARE CLASSICS,RWD,261,2315,8000000,6.2,4.6,5.2,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_410.jpg,1957 Ferrari 250 TESTA ROSSA,A,704,CLASSIC RACERS,RWD,300,2028,10000000,6.9,5.6,6.0,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_066.jpg,1953 Ferrari 500 MONDIAL,C,544,CLASSIC RACERS,RWD,168,1852,1000000,6.1,5.1,4.7,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_244.jpg,1948 Ferrari 166MM BARCHETTA,C,554,CLASSIC RACERS,RWD,138,1433,6500000,5.7,5.1,5.5,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_499.jpg,1980 Fiat 124 SPORT SPIDER,D,244,CLASSIC SPORTS CARS,RWD,102,2310,25000,4.9,4.0,4.2,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_729.jpg?v=1,1975 Fiat X1/9,D,127,CLASSIC SPORTS CARS,RWD,62,2209,250000,4.8,4.1,4.0,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_625.jpg?v=1,1969 Fiat DINO 2.4 COUPE,D,468,CLASSIC SPORTS CARS,RWD,180,3086,250000,5.7,4.7,5.4,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_736.jpg?v=1,2020 Ford MUSTANG SHELBY GT500,S1,863,MODERN MUSCLE,RWD,760,4171,250000,7.9,7.9,7.0,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_632.jpg?v=1,2019 Ford Ranger Raptor,D,498,OFFROAD,AWD,211,5141,58000,5.5,5.8,4.6,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_596.jpg?v=1,2018 Ford #25 MUSTANG RTR,S1,871,EXTREME TRACK TOYS,RWD,1000,3100,500000,6.6,7.9,6.7,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_597.jpg?v=1,2018 Ford #88 MUSTANG RTR,S1,871,EXTREME TRACK TOYS,RWD,1000,3100,500000,6.6,7.9,6.7,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_652.jpg?v=1,2018 Ford F-150 PRERUNNER DEBERTI DESIGN TRUCK,A,750,EXTREME OFFROAD,RWD,801,7000,250000,6.5,6.3,7.4,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_294.jpg,2018 Ford MUSTANG GT,A,778,MODERN MUSCLE,RWD,460,3706,40000,7.5,6.5,6.4,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_522.jpg?v=2,2018 Ford MUSTANG GT DEBERTI DESIGN,S1,835,MODERN MUSCLE,RWD,750,3821,500000,8.2,7.1,7.2,7.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_598.jpg?v=1,2018 Ford MUSTANG RTR SPEC 5,A,780,MODERN MUSCLE,RWD,460,3827,105000,7.1,6.8,6.4,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_471.jpg,2017 Ford #14 RAHAL LETTERMAN LANIGAN RACING GRC FIESTA,S1,880,RALLY MONSTERS,AWD,599,2747,500000,5.8,7.7,10.0,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_333.jpg,2017 Ford F-150 RAPTOR,B,627,OFFROAD,AWD,450,5450,63000,5.8,5.9,6.4,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_269.jpg,2017 Ford FOCUS RS,A,718,SUPER HOT HATCH,AWD,350,3446,59000,6.9,6.3,7.3,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_268.jpg,2017 Ford FOCUS RS PREORDER CAR,A,800,SUPER HOT HATCH,AWD,401,2668,59000,7.4,6.7,9.2,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_354.jpg,2017 Ford GT,S1,900,MODERN SUPERCARS,RWD,630,2890,400000,8.6,8.4,7.5,8.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_308.jpg,2017 Ford M-SPORT FIESTA RS,S1,819,RALLY MONSTERS,AWD,375,2800,500000,5.9,7.9,9.9,8.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_709.jpg?v=1,2017 Ford Welcome Pack GT,S2,998,MODERN SUPERCARS,RWD,868,2745,400000,9.2,10.0,8.3,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_509.jpg,2016 Ford SHELBY GT350R,S1,840,TRACK TOYS,RWD,525,3660,75000,7.7,8.1,7.2,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_461.jpg,2015 Ford FALCON GT F 351,A,739,MODERN MUSCLE,RWD,471,4030,60000,7.5,6.1,6.2,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_321.jpg,2014 Ford #11 ROCKSTAR F-150 TROPHY TRUCK,A,785,EXTREME OFFROAD,RWD,850,6250,500000,6.4,6.6,6.6,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_082.jpg,2014 Ford FIESTA ST,B,621,HOT HATCH,FWD,197,2721,25000,6.1,6.1,5.8,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_034.jpg,2014 Ford FPV LIMITED EDITION PURSUIT UTE,A,710,VANS AND UTILITY,RWD,422,3946,50000,7.0,5.8,6.1,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_147.jpg,2014 Ford RANGER T6 RALLY RAID,A,703,EXTREME OFFROAD,AWD,349,4354,500000,5.4,5.8,7.0,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_296.jpg,2013 Ford SHELBY GT500,A,774,MODERN MUSCLE,RWD,662,3898,115000,7.8,6.4,6.1,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_495.jpg,2011 Ford F-150 SVT RAPTOR,C,564,OFFROAD,AWD,412,6005,42000,6.1,5.5,5.8,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_382.jpg,2011 Ford TRANSIT SUPERSPORTVAN,D,416,VANS AND UTILITY,RWD,198,4493,50000,5.4,5.1,4.6,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_215.jpg,2011 Ford TRANSIT SUPERSPORTVAN FORZA EDITION,B,695,VANS AND UTILITY,AWD,198,2866,300000,5.4,9.4,5.4,9.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_454.jpg,2010 Ford CROWN VICTORIA POLICE INTERCEPTOR,C,521,RETRO MUSCLE,RWD,249,4057,25000,6.0,5.1,4.9,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_090.jpg,2009 Ford FOCUS RS,B,696,SUPER HOT HATCH,FWD,300,3236,25000,6.3,6.3,6.0,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_362.jpg,2005 Ford GT,S1,810,RETRO SUPERCARS,RWD,550,3391,300000,8.1,7.1,6.4,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_472.jpg,2003 Ford FOCUS RS,B,649,MODERN RALLY,FWD,212,2822,30000,6.0,6.2,6.0,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_291.jpg,2000 Ford SVT COBRA R,B,682,RETRO MUSCLE,RWD,385,3589,55000,7.3,5.7,5.8,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_690.jpg?v=3,1999 Ford RACING PUMA,C,549,RETRO RALLY,FWD,153,2588,250000,5.7,6.1,5.3,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_678.jpg?v=1,1994 Ford SUPERVAN 3,S1,828,TRACK TOYS,RWD,295,1962,500000,5.8,9.8,8.2,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_455.jpg,1993 Ford SVT COBRA R,C,533,RETRO MUSCLE,RWD,235,3124,28000,6.1,4.8,5.5,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_126.jpg,1992 Ford ESCORT RS COSWORTH,C,566,RETRO RALLY,AWD,224,2811,66000,6.0,5.3,6.0,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_379.jpg,1987 Ford SIERRA COSWORTH RS500,B,608,RETRO SALOONS,RWD,224,2734,66000,6.4,5.7,6.1,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_084.jpg,1986 Ford ESCORT RS TURBO,C,506,RETRO HOT HATCH,FWD,130,2154,25000,5.5,5.2,5.7,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_133.jpg,1985 Ford RS200 EVOLUTION,S1,839,RALLY MONSTERS,AWD,505,2465,260000,6.2,7.4,8.2,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_426.jpg,1981 Ford FIESTA XR2,D,324,RETRO HOT HATCH,FWD,84,1852,25000,4.8,4.7,4.9,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_700.jpg?v=1,1977 Ford #5 ESCORT RS1800 MK II,A,729,CLASSIC RALLY,RWD,255,2161,250000,5.4,6.6,6.9,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_466.jpg,1977 Ford ESCORT RS1800,D,311,CLASSIC RALLY,RWD,115,1986,88000,5.2,4.0,5.1,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_161.jpg,1975 Ford BRONCO,D,379,OFFROAD,AWD,205,3545,38000,5.2,4.2,5.3,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_606.jpg?v=1,1975 Ford Bronco Barrett-Jackson Edition,B,630,OFFROAD,AWD,321,3705,105000,5.4,6.3,6.6,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_498.jpg,1973 Ford CAPRI RS3100,D,478,CLASSIC SPORTS CARS,RWD,147,2315,55000,5.7,4.7,5.4,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_307.jpg,1973 Ford CAPRI RS3100 FORZA EDITION,B,613,RALLY MONSTERS,RWD,148,2315,305000,5.7,6.5,5.5,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_304.jpg,1973 Ford ESCORT RS1600,D,440,CLASSIC RALLY,RWD,114,1918,73000,5.2,5.0,5.4,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_102.jpg,1973 Ford XB FALCON GT,C,529,CLASSIC MUSCLE,RWD,300,3047,60000,6.0,4.7,5.1,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_442.jpg,1972 Ford FALCON XA GT-HO,B,608,CLASSIC MUSCLE,RWD,410,3461,80000,7.0,4.9,5.5,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_441.jpg,1972 Ford FALCON XA GT-HO FORZA EDITION,S1,811,CLASSIC MUSCLE,RWD,410,2646,330000,7.0,7.4,7.2,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_279.jpg,1971 Ford MUSTANG MACH 1,C,561,CLASSIC MUSCLE,RWD,375,3710,45000,5.7,4.8,5.1,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_699.jpg?v=1,1970 Ford GT70,B,694,CLASSIC RALLY,RWD,200,1680,250000,5.9,6.6,5.9,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_278.jpg,1969 Ford MUSTANG BOSS 302,C,564,CLASSIC MUSCLE,RWD,290,3250,230000,6.3,5.0,5.0,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_580.jpg?v=1,1968 Ford Mustang GT 2+2 Fastback,C,505,CLASSIC MUSCLE,RWD,325,3547,50000,6.4,4.5,5.1,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_408.jpg,1966 Ford #2 GT40 MKII LE MANS,A,795,CLASSIC RACERS,RWD,485,2683,10000000,7.8,6.6,6.0,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_243.jpg,1966 Ford LOTUS CORTINA,D,379,CLASSIC RACERS,RWD,115,2059,50000,5.1,4.6,5.3,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_286.jpg,1965 Ford MUSTANG GT COUPE,C,507,CLASSIC MUSCLE,RWD,271,2562,46000,6.0,4.4,5.1,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_581.jpg?v=1,1965 Ford Transit,D,100,VANS AND UTILITY,RWD,72,3527,25000,3.8,4.1,3.4,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_065.jpg,1964 Ford GT40 MKI,A,772,CLASSIC RACERS,RWD,390,2222,9000000,7.4,6.4,6.2,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_248.jpg,1959 Ford ANGLIA 105E,D,100,CULT CARS,RWD,39,1676,20000,3.9,3.9,3.7,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_112.jpg,1956 Ford F-100,D,221,RODS AND CUSTOMS,RWD,173,3325,36000,4.9,3.7,4.9,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_289.jpg,1946 Ford SUPER DELUXE STATION WAGON,D,100,RODS AND CUSTOMS,RWD,101,3490,75000,4.6,3.7,3.7,3.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_114.jpg,1940 Ford DE LUXE COUPE,D,100,RODS AND CUSTOMS,RWD,84,2970,44000,4.4,3.8,4.1,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_607.jpg?v=1,1932 Ford Custom Double Down,S2,927,RODS AND CUSTOMS,AWD,850,2500,105000,8.6,8.0,10.0,8.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_288.jpg,1932 Ford DE LUXE FIVE-WINDOW COUPE,D,100,RODS AND CUSTOMS,RWD,64,2399,35000,4.4,3.8,3.9,3.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_608.jpg?v=1,1932 Ford Roadster Hula Girl,C,590,RODS AND CUSTOMS,RWD,200,2480,105000,5.2,5.7,6.1,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_716.jpg?v=1,2018 Formula Drift #64 NISSAN 370Z,S1,884,EXTREME TRACK TOYS,RWD,1015,2866,500000,7.8,7.7,6.7,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_095.jpg,2016 Formula Drift #530 HSV MALOO GEN-F,S1,836,EXTREME TRACK TOYS,RWD,1000,2899,300000,7.9,7.3,6.2,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_272.jpg,2015 Formula Drift #13 FORD MUSTANG,S1,852,EXTREME TRACK TOYS,RWD,985,3100,300000,6.6,7.6,6.6,7.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_684.jpg?v=1,2013 Formula Drift #777 CHEVROLET CORVETTE,S1,885,EXTREME TRACK TOYS,RWD,1050,3000,250000,7.0,7.8,6.6,7.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_685.jpg?v=1,2007 Formula Drift #117 599 GTB FIORANO,S1,896,EXTREME TRACK TOYS,RWD,917,3199,500000,7.3,8.2,7.2,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_437.jpg,2006 Formula Drift #43 DODGE VIPER SRT10,S1,859,EXTREME TRACK TOYS,RWD,1350,2899,300000,7.7,7.8,6.6,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_098.jpg,1997 Formula Drift #777 NISSAN 240SX,S1,861,EXTREME TRACK TOYS,RWD,1251,3100,300000,7.3,7.5,6.8,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_275.jpg,1996 Formula Drift #232 NISSAN 240SX,S1,859,EXTREME TRACK TOYS,RWD,1153,2800,300000,7.5,7.6,6.5,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_438.jpg,1995 Formula Drift #118 NISSAN 240SX,S1,860,EXTREME TRACK TOYS,RWD,830,2899,300000,6.5,7.6,6.9,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_274.jpg,1989 Formula Drift #98 BMW 325i,S1,837,EXTREME TRACK TOYS,RWD,749,2800,300000,7.4,7.2,6.6,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_552.jpg?v=2,2018 Funco Motorsports F9,S1,860,OFFROADS BUGGIES,RWD,1750,2800,500000,6.0,6.7,8.7,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_720.jpg?v=1,1992 GMC TYPHOON,C,510,VANS AND UTILITY,AWD,280,3801,250000,5.9,4.6,6.2,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_721.jpg?v=1,1991 GMC SYCLONE,C,545,VANS AND UTILITY,AWD,280,3613,250000,6.1,4.7,6.9,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_214.jpg,1983 GMC VANDURA G-1500,D,151,VANS AND UTILITY,RWD,165,5049,25000,4.7,3.9,4.3,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_118.jpg,1985 HDT VK COMMODORE GROUP A,C,545,RETRO MUSCLE,RWD,263,2954,28000,5.9,4.8,5.5,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_722.jpg?v=1,2019 Hennessey VELOCIRAPTOR 6X6,A,705,OFFROAD,AWD,599,6698,350000,6.0,6.6,7.1,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_025.jpg,2012 Hennessey VENOM GT,S2,930,HYPERCARS,RWD,1200,2685,1200000,10.0,8.3,7.6,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_578.jpg?v=1,1966 Hillman IMP,D,100,CULT CARS,RWD,55,1647,25000,4.3,4.0,3.7,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_702.jpg?v=1,1988 Holden VL COMMODORE GROUP A SV,C,578,RETRO MUSCLE,RWD,241,3120,250000,6.5,5.2,5.7,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_449.jpg,1977 Holden TORANA A9X,C,507,CLASSIC MUSCLE,RWD,216,2520,130000,5.8,4.7,5.1,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_035.jpg,1974 Holden SANDMAN HQ PANEL VAN,D,500,VANS AND UTILITY,RWD,240,3280,55000,5.7,4.7,5.4,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_110.jpg,1973 Holden HQ MONARO GTS 350,C,524,CLASSIC MUSCLE,RWD,275,3150,75000,5.7,4.7,5.3,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_432.jpg,2018 Honda CIVIC TYPE R,A,745,SUPER HOT HATCH,FWD,306,3117,59000,7.4,6.7,6.0,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_521.jpg?v=1,2016 Honda CIVIC COUPE GRC,S1,878,RALLY MONSTERS,AWD,599,2747,155000,5.8,7.8,10.0,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_266.jpg,2015 Honda CIVIC TYPE R,A,714,SUPER HOT HATCH,FWD,306,3047,38000,7.0,6.4,6.1,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_322.jpg,2015 Honda RIDGELINE BAJA TROPHY TRUCK,A,751,EXTREME OFFROAD,RWD,550,4700,500000,6.0,6.4,6.8,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_396.jpg,2009 Honda S2000 CR,B,647,MODERN SPORTS CARS,RWD,237,2813,25000,6.4,6.2,6.2,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_258.jpg,2007 Honda CIVIC TYPE-R,C,576,HOT HATCH,FWD,198,2965,20000,6.1,6.2,5.7,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_221.jpg,2005 Honda NSX-R,A,714,RETRO SPORTS CARS,RWD,290,2800,150000,7.0,6.4,6.6,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_576.jpg?v=1,2005 Honda NSX-R GT,A,744,RETRO SPORTS CARS,RWD,276,2800,500000,7.0,6.9,6.9,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_087.jpg,2004 Honda CIVIC TYPE-R,B,610,RETRO HOT HATCH,FWD,212,2624,25000,6.2,5.8,5.7,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_539.jpg?v=2,2003 Honda S2000,B,618,MODERN SPORTS CARS,RWD,247,2756,25000,6.6,5.4,5.9,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_429.jpg,1997 Honda CIVIC TYPE R,C,551,RETRO HOT HATCH,FWD,182,2403,25000,6.2,5.3,5.5,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_593.jpg?v=1,1994 Honda Prelude Si,D,500,RETRO HOT HATCH,FWD,160,2870,250000,5.9,5.3,5.5,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_385.jpg,1992 Honda NSX-R,A,707,RETRO SPORTS CARS,RWD,276,2712,90000,6.9,6.3,6.6,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_265.jpg,1991 Honda CR-X SIR,C,504,RETRO HOT HATCH,FWD,158,2161,20000,6.0,5.1,5.0,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_554.jpg?v=1,1984 Honda CIVIC CRX MUGEN,D,492,RETRO HOT HATCH,FWD,119,1819,40000,5.7,5.0,4.9,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_540.jpg?v=1,1974 Honda Civic RS,D,320,RETRO HOT HATCH,FWD,76,1620,25000,5.0,4.7,4.3,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_735.jpg?v=1,1970 Honda S800,D,193,CULT CARS,RWD,70,1565,250000,4.7,4.0,5.3,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_541.jpg?v=1,2017 Hoonigan GYMKHANA 10 FORD FIESTA ST,S1,828,RALLY MONSTERS,AWD,375,2800,500000,5.7,8.2,9.0,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_543.jpg?v=1,2016 Hoonigan GYMKHANA 10 FORD FOCUS RS RX,S1,886,RALLY MONSTERS,AWD,599,2491,500000,5.9,7.9,10.0,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_131.jpg,2016 Hoonigan GYMKHANA 9 FORD FOCUS RS RX,S1,886,RALLY MONSTERS,AWD,599,2491,500000,5.9,7.9,10.0,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_711.jpg?v=1,2016 Hoonigan Welcome Pack GYMKHANA 9 FORD FOCUS RS RX,S1,900,RALLY MONSTERS,AWD,599,2491,500000,6.6,8.1,10.0,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_553.jpg?v=2,2015 Hoonigan GYMKHANA 8 Ford Fiesta ST RX43,S1,885,RALLY MONSTERS,AWD,599,2747,500000,5.8,7.8,10.0,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_038.jpg,1992 Hoonigan MAZDA RX-7 TWERKSTALLION,S1,838,RETRO SPORTS CARS,RWD,599,2866,50000,8.6,7.3,6.3,7.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_526.jpg?v=2,1991 Hoonigan GYMKHANA 10 FORD ESCORT COSWORTH GROUP A,S1,880,RALLY MONSTERS,AWD,620,2690,500000,7.9,7.4,10.0,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_019.jpg,1991 Hoonigan RAUH-WELT BEGRIFF PORSCHE 911 TURBO,S1,850,RETRO SUPERCARS,RWD,385,2976,160000,7.3,8.6,8.2,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_566.jpg?v=1,1986 Hoonigan FORD RS200 EVOLUTION,S2,932,RALLY MONSTERS,AWD,750,2493,500000,8.0,8.2,10.0,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_132.jpg,1978 Hoonigan FORD ESCORT RS1800,S1,828,RALLY MONSTERS,RWD,332,1845,300000,6.7,7.7,6.6,8.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_527.jpg?v=1,1977 Hoonigan GYMKHANA 10 FORD F-150 “HOONITRUCK”,S2,916,EXTREME TRACK TOYS,AWD,914,3210,500000,6.8,8.2,9.2,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_728.jpg?v=2,1974 Hoonigan BRONCO,A,721,OFFROAD,AWD,434,3706,200000,5.8,6.5,8.4,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_450.jpg,1972 Hoonigan CHEVROLET NAPALM NOVA,A,765,CLASSIC MUSCLE,RWD,475,3567,50000,7.3,6.3,6.4,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_440.jpg,1965 Hoonigan FORD “HOONICORN” MUSTANG,S2,985,EXTREME TRACK TOYS,AWD,1399,2998,500000,9.3,8.2,10.0,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_532.jpg?v=1,1965 Hoonigan GYMKHANA 10 FORD HOONICORN MUSTANG,S2,985,EXTREME TRACK TOYS,AWD,1400,2998,500000,9.0,8.2,10.0,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_451.jpg,1955 Hoonigan CHEVROLET BEL AIR,C,571,RODS AND CUSTOMS,RWD,410,3245,76000,6.5,4.3,5.8,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_738.jpg?v=1,2018 Hot Wheels 2JETZ,S1,889,RODS AND CUSTOMS,RWD,638,1739,100000,7.2,8.0,8.3,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_582.jpg?v=1,2012 Hot Wheels RIP ROD,A,747,OFFROADS BUGGIES,RWD,200,1499,300000,6.2,6.4,7.3,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_525.jpg?v=1,2011 Hot Wheels Bone Shaker,A,795,RODS AND CUSTOMS,RWD,402,2205,150000,6.7,7.0,6.9,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_583.jpg?v=1,2005 Hot Wheels Ford Mustang,S1,841,TRACK TOYS,RWD,504,3300,300000,7.1,9.2,7.3,9.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_740.jpg?v=1,1972 Hot Wheels CHEVROLET LUV,B,663,RODS AND CUSTOMS,RWD,400,3199,100000,6.1,5.2,7.0,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_742.jpg?v=1,1969 Hot Wheels INTERNATIONAL-HARVESTER LOADSTAR CO-1600,C,563,RODS AND CUSTOMS,RWD,485,2998,100000,5.2,5.2,6.0,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_524.jpg?v=1,1969 Hot Wheels TWIN MILL,S1,821,RODS AND CUSTOMS,RWD,1400,4696,110000,8.8,6.6,6.2,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_741.jpg?v=1,1957 Hot Wheels NASH METROPOLITAN CUSTOM,C,559,RODS AND CUSTOMS,RWD,350,2251,100000,6.4,4.7,5.2,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_739.jpg?v=1,1957 Hot Wheels STUDEBAKER GOLDEN 'DREAM ROADSTER',A,701,RODS AND CUSTOMS,RWD,528,3362,100000,6.2,5.3,6.3,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_743.jpg?v=1,1949 Hot Wheels FORD F-5 DUALLY CUSTOM HOT ROD,B,634,RODS AND CUSTOMS,RWD,400,4661,100000,5.6,6.5,7.0,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_122.jpg,2014 HSV GEN-F GTS,A,747,MODERN MUSCLE,RWD,576,4147,75000,7.6,6.1,6.2,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_033.jpg,2014 HSV LIMITED EDITION GEN-F GTS MALOO,A,764,VANS AND UTILITY,RWD,576,4034,62000,7.1,6.4,6.2,6.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_704.jpg?v=1,2011 HSV GTS,A,713,MODERN MUSCLE,RWD,437,4068,250000,7.2,6.1,6.2,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_703.jpg?v=1,1996 HSV GTSR,B,669,RETRO MUSCLE,RWD,308,3591,250000,5.7,6.1,5.9,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_563.jpg?v=1,1952 Hudson HORNET,D,305,RODS AND CUSTOMS,RWD,160,3549,66000,5.0,4.2,4.8,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_330.jpg,2006 HUMMER H1 ALPHA,D,391,OFFROAD,AWD,300,8113,112000,5.2,5.4,4.0,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_673.jpg?v=1,2006 HUMMER H1 ALPHA OPEN TOP,D,382,OFFROAD,AWD,300,7557,250000,5.1,5.4,4.1,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_091.jpg,2019 Hyundai VELOSTER N,B,657,SUPER HOT HATCH,FWD,275,3106,30000,6.7,5.8,6.0,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_051.jpg,2015 Infiniti Q60 CONCEPT,A,757,SUPER SALOONS,RWD,399,4092,50000,7.4,6.3,6.1,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_231.jpg,2014 Infiniti Q50 EAU ROUGE,A,783,SUPER SALOONS,AWD,560,3836,100000,8.1,6.4,9.2,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_492.jpg,1970 International SCOUT 800A,D,334,OFFROAD,AWD,193,3616,40000,5.1,4.1,4.6,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_649.jpg?v=1,2018 ItalDesign ZEROUNO,S1,893,HYPERCARS,AWD,602,3362,250000,8.0,8.7,10.0,9.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_706.jpg?v=5,2018 Jaguar I-PACE,A,706,SPORTS UTILITY HEROES,AWD,394,4868,250000,5.5,5.9,6.2,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_154.jpg,2017 Jaguar F-PACE S,B,698,SPORTS UTILITY HEROES,AWD,379,4015,55000,6.6,5.9,7.0,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_508.jpg,2016 Jaguar F-TYPE PROJECT 7,S1,805,TRACK TOYS,RWD,567,3571,190000,7.5,7.0,6.4,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_475.jpg,2015 Jaguar F-TYPE R COUPE,A,795,GT CARS,RWD,550,3638,110000,7.9,6.5,6.4,6.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_232.jpg,2015 Jaguar XE-S,B,660,SUPER SALOONS,RWD,340,3788,57000,7.3,5.5,6.0,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_052.jpg,2015 Jaguar XFR-S,A,755,SUPER SALOONS,RWD,550,4381,110000,8.0,6.2,6.3,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_177.jpg,2015 Jaguar XKR-S GT,A,798,TRACK TOYS,RWD,542,3977,190000,7.7,6.9,6.4,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_138.jpg,2012 Jaguar XKR-S,A,782,GT CARS,RWD,542,3865,100000,7.9,6.5,6.2,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_199.jpg,1993 Jaguar XJ220,S1,811,RETRO SUPERCARS,RWD,542,3241,350000,8.3,6.8,6.8,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_070.jpg,1990 Jaguar XJ-S,C,557,CULT CARS,RWD,299,3968,25000,6.8,4.7,4.8,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_076.jpg,1964 Jaguar LIGHTWEIGHT E-TYPE,A,707,RARE CLASSICS,RWD,340,2293,10000000,6.9,5.5,6.0,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_418.jpg,1961 Jaguar E-TYPE S1,C,539,RARE CLASSICS,RWD,265,2899,150000,6.0,5.0,5.7,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_061.jpg,1959 Jaguar MK II 3.8,D,414,CLASSIC RACERS,RWD,220,3360,80000,5.5,4.5,5.1,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_060.jpg,1956 Jaguar D-TYPE,C,513,CLASSIC RACERS,RWD,245,2101,10000000,6.4,4.2,5.1,3.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_254.jpg,1954 Jaguar XK120 SE,D,469,RARE CLASSICS,RWD,210,3016,120000,5.8,4.5,5.7,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_536.jpg?v=2,1953 Jaguar C-Type,D,495,CLASSIC RACERS,RWD,225,2127,5000000,6.4,4.1,5.2,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_006.jpg,2015 James Bond Edition ASTON MARTIN DB10,S1,814,MODERN SUPERCARS,RWD,500,3400,220000,7.7,7.4,6.9,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_188.jpg,2010 James Bond Edition JAGUAR C-X75,S1,900,MODERN SUPERCARS,AWD,890,3750,1500000,8.3,7.9,9.8,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_313.jpg,2008 James Bond Edition ASTON MARTIN DBS,A,779,GT CARS,RWD,509,3737,325000,7.7,6.9,6.5,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_217.jpg,1999 James Bond Edition BMW Z8,A,720,RETRO SPORTS CARS,RWD,394,3494,150000,6.9,6.3,6.3,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_216.jpg?v=1,1987 James Bond Edition ASTON MARTIN V8,B,620,RETRO SPORTS CARS,RWD,432,4008,200000,6.9,5.3,5.7,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_247.jpg,1981 James Bond Edition CITROEN 2CV6,D,100,CULT CARS,FWD,60,1731,80000,4.1,3.9,4.1,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_369.jpg,1977 James Bond Edition LOTUS ESPRIT S1,C,541,RETRO SUPERCARS,RWD,160,2101,550000,5.7,5.6,5.6,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_287.jpg,1974 James Bond Edition AMC HORNET X HATCHBACK,D,414,CLASSIC MUSCLE,RWD,174,3100,35000,5.7,4.3,5.1,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_420.jpg,1969 James Bond Edition ASTON MARTIN DBS,B,612,RARE CLASSICS,RWD,324,3501,650000,7.0,5.0,5.8,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_078.jpg,1964 James Bond Edition ASTON MARTIN DB5,B,618,RARE CLASSICS,RWD,324,3230,650000,6.3,5.0,5.7,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_748.jpg?v=2,2020 Jeep GLADIATOR RUBICON,D,498,OFFROAD,AWD,286,5073,250000,5.7,4.8,5.4,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_488.jpg,2018 Jeep GRAND CHEROKEE TRACK HAWK,A,780,SPORTS UTILITY HEROES,AWD,706,5351,73000,7.4,6.2,9.3,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_149.jpg,2016 Jeep TRAILCAT,A,790,EXTREME OFFROAD,AWD,706,4601,75000,6.8,6.5,7.0,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_487.jpg,2014 Jeep GRAND CHEROKEE SRT,A,711,SPORTS UTILITY HEROES,AWD,469,5150,80000,6.7,6.0,7.5,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_633.jpg?v=1,2013 Jeep Wrangler Unlimited Deberti Design,A,796,EXTREME OFFROAD,AWD,707,4650,250000,5.6,6.6,7.7,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_329.jpg,2012 Jeep WRANGLER RUBICON,D,488,OFFROAD,AWD,286,4131,50000,5.6,4.8,5.7,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_491.jpg,1976 Jeep CJ5 RENEGADE,D,417,OFFROAD,AWD,151,2271,60000,4.8,4.7,6.0,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_715.jpg?v=1,1976 Jeep Welcome Pack CJ5 RENEGADE,B,700,OFFROAD,AWD,322,2271,60000,5.6,6.1,7.7,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_397.jpg,2018 Kia STINGER,A,715,SUPER SALOONS,RWD,365,3750,46000,7.3,6.0,6.2,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_727.jpg?v=1,2020 Koenigsegg JESKO,S2,998,EXTREME TRACK TOYS,RWD,1279,3131,2800000,10.0,9.7,8.3,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_514.jpg,2017 Koenigsegg AGERA RS,S2,996,HYPERCARS,RWD,1340,3075,2000000,10.0,9.5,7.5,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_024.jpg,2016 Koenigsegg REGERA,S2,972,HYPERCARS,RWD,1499,4030,1900000,9.2,9.1,7.3,9.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_202.jpg,2015 Koenigsegg ONE:1,S2,993,HYPERCARS,RWD,1340,2998,2850000,10.0,9.8,7.5,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_026.jpg,2011 Koenigsegg AGERA,S2,920,HYPERCARS,RWD,945,3164,1500000,9.6,8.5,7.3,8.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_655.jpg?v=1,2008 Koenigsegg CCGT,S2,986,EXTREME TRACK TOYS,RWD,610,2425,250000,7.8,10.0,7.9,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_634.jpg?v=1,2006 Koenigsegg CCX,S1,881,HYPERCARS,RWD,806,2937,250000,9.0,7.9,7.3,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_547.jpg?v=2,2002 Koenigsegg CC8S,S1,883,HYPERCARS,RWD,565,2811,320000,9.0,8.4,7.3,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_542.jpg?v=1,2018 KTM X-BOW GT4,S1,861,EXTREME TRACK TOYS,RWD,326,2352,400000,6.3,10.0,6.7,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_510.jpg,2013 KTM X-BOW R,S1,819,TRACK TOYS,RWD,295,1786,105000,6.0,9.1,7.5,9.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_544.jpg?v=3,2019 Lamborghini Urus,A,795,SPORTS UTILITY HEROES,AWD,641,4850,150000,7.6,6.7,7.6,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_670.jpg?v=1,2018 Lamborghini HURACAN PERFORMANTE,S1,900,TRACK TOYS,AWD,630,3047,275000,7.8,8.5,10.0,9.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_205.jpg,2016 Lamborghini AVENTADOR LP750-4 SV,S2,906,HYPERCARS,AWD,740,3362,480000,8.7,8.7,10.0,9.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_376.jpg,2016 Lamborghini CENTENARIO LP 770-4,S2,918,HYPERCARS,AWD,759,3527,2300000,8.6,9.4,10.0,9.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_009.jpg,2014 Lamborghini HURACAN LP 610-4,S1,866,MODERN SUPERCARS,AWD,602,3135,240000,8.2,7.8,9.2,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_153.jpg,2014 Lamborghini URUS CONCEPT,A,774,SPORTS UTILITY HEROES,AWD,552,4400,230000,7.4,6.5,7.0,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_206.jpg,2013 Lamborghini VENENO,S2,943,HYPERCARS,AWD,740,3373,4500000,8.5,10.0,10.0,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_549.jpg?v=1,2012 Lamborghini Aventador J,S1,871,HYPERCARS,AWD,700,3620,2700000,8.3,7.9,9.4,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_374.jpg,2012 Lamborghini AVENTADOR LP700-4,S1,882,HYPERCARS,AWD,700,3472,310000,8.7,7.8,9.8,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_023.jpg,2012 Lamborghini AVENTADOR LP700-4 FORZA EDITION,S1,879,HYPERCARS,AWD,700,3472,560000,8.3,8.1,9.9,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_523.jpg?v=1,2012 Lamborghini GALLARDO LP570-4 SPYDER PERFORMANTE,S1,814,MODERN SUPERCARS,AWD,562,3790,280000,7.5,7.0,7.9,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_713.jpg?v=1,2012 Lamborghini Welcome Pack AVENTADOR LP700-4,S1,900,HYPERCARS,AWD,700,3472,310000,8.7,8.4,9.8,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_008.jpg,2011 Lamborghini GALLARDO LP 570-4 SUPERLEGGERA,S1,833,MODERN SUPERCARS,AWD,562,3470,180000,7.9,7.2,8.4,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_093.jpg,2011 Lamborghini SESTO ELEMENTO,S2,948,EXTREME TRACK TOYS,AWD,571,2202,2500000,8.1,10.0,10.0,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_359.jpg,2010 Lamborghini MURCIELAGO LP 670-4 SV,S1,840,MODERN SUPERCARS,AWD,661,3849,500000,8.2,7.4,6.7,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_002.jpg,2008 Lamborghini Reventon,S1,841,MODERN SUPERCARS,AWD,641,4068,1375000,8.2,7.4,6.7,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_187.jpg,2008 Lamborghini REVENTON FORZA EDITION,S1,847,MODERN SUPERCARS,AWD,641,4068,1625000,8.2,7.7,6.7,8.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_661.jpg?v=1,1999 Lamborghini DIABLO GTR,S2,915,EXTREME TRACK TOYS,RWD,590,3086,250000,7.8,9.9,8.2,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_361.jpg,1997 Lamborghini DIABLO SV,A,787,RETRO SUPERCARS,RWD,529,3474,174000,8.1,6.6,6.8,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_192.jpg,1988 Lamborghini COUNTACH LP5000 QV,A,759,RETRO SUPERCARS,RWD,454,3285,220000,7.4,6.6,6.4,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_332.jpg,1986 Lamborghini LM 002,C,553,OFFROAD,AWD,450,5952,180000,6.1,5.0,4.7,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_560.jpg?v=1,1972 Lamborghini Jarama S,C,559,RETRO SUPERCARS,RWD,365,3389,150000,6.3,4.7,5.5,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_079.jpg,1967 Lamborghini MIURA P400,B,619,RARE CLASSICS,RWD,350,2745,1000000,6.6,5.2,5.6,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_464.jpg,1992 Lancia DELTA HF INTEGRALE EVO,C,532,RETRO RALLY,AWD,210,2866,60000,5.7,4.7,6.2,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_463.jpg,1986 Lancia DELTA S4,B,638,RETRO RALLY,AWD,247,2646,146000,5.8,5.4,7.1,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_299.jpg,1982 Lancia 037 STRADALE,C,590,RETRO RALLY,RWD,202,2540,95000,6.0,5.5,6.1,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_128.jpg,1974 Lancia STRATOS HF STRADALE,C,544,CLASSIC RALLY,RWD,190,2161,550000,6.1,4.8,6.1,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_302.jpg,1968 Lancia FULVIA COUPE RALLYE 1.6 HF,D,490,CLASSIC RALLY,FWD,130,1814,60000,5.5,4.7,5.5,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_707.jpg?v=1,2018 Land Rover RANGE ROVER VELAR FIRST EDITION,B,658,SPORTS UTILITY HEROES,AWD,375,4676,85000,6.7,5.8,6.1,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_325.jpg,2015 Land Rover RANGE ROVER SPORT SVR,A,752,SPORTS UTILITY HEROES,AWD,550,5148,133000,7.1,6.2,7.5,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_494.jpg,1997 Land Rover DEFENDER 90,D,357,OFFROAD,AWD,182,3902,30000,4.8,4.8,4.6,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_493.jpg,1973 Land Rover RANGE ROVER,D,235,OFFROAD,AWD,135,3801,50000,4.5,4.6,4.3,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_159.jpg,1972 Land Rover SERIES III,D,100,OFFROAD,AWD,68,3097,20000,3.9,4.0,3.7,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_331.jpg,1972 Land Rover SERIES III FORZA EDITION,D,126,OFFROAD,AWD,68,3097,270000,3.9,6.1,3.6,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_674.jpg?v=1,2019 Lego Speed Champions BUGATTI CHIRON,S2,937,HYPERCARS,AWD,1479,4398,2400000,10.0,8.0,9.4,9.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_629.jpg?v=1,2019 Lego Speed Champions MCLAREN SENNA,S2,978,HYPERCARS,RWD,789,2800,1000000,8.7,10.0,9.3,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_630.jpg?v=3,1987 Lego Speed Champions FERRARI F40 COMPETIZION,S2,973,EXTREME TRACK TOYS,RWD,691,2315,3000000,8.0,10.0,8.7,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_639.jpg?v=1,1974 Lego Speed Champions PORSCHE 911 TURBO 3.0,S1,898,EXTREME TRACK TOYS,RWD,491,2641,500000,7.6,9.4,8.5,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_628.jpg?v=2,1967 Lego Speed Champions MINI COOPER S RALLY,S1,831,RALLY MONSTERS,AWD,375,2800,500000,6.4,8.1,8.8,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_717.jpg?v=1,2015 Lexus RC F,A,761,SUPER SALOONS,RWD,467,3957,250000,7.2,6.5,6.3,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_675.jpg?v=1,2010 Lexus LFA,S1,826,MODERN SUPERCARS,RWD,553,3263,500000,7.8,7.1,6.9,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_718.jpg?v=1,2009 Lexus IS F,A,737,SUPER SALOONS,RWD,416,3781,250000,7.5,6.1,6.1,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_485.jpg,2014 Local Motors RALLY FIGHTER,A,760,EXTREME OFFROAD,RWD,430,3801,100000,6.7,6.4,6.1,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_064.jpg,1969 Lola #6 PENSKE SUNOCO T70 MKIIIB,S1,828,CLASSIC RACERS,RWD,460,1852,850000,7.4,6.8,7.9,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_179.jpg,2016 Lotus 3-ELEVEN,S1,870,TRACK TOYS,RWD,410,2103,150000,6.8,9.3,8.0,9.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_047.jpg,2012 Lotus EXIGE S,A,772,MODERN SPORTS CARS,RWD,345,2593,85000,7.0,7.1,7.4,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_392.jpg,2011 Lotus EVORA S,A,748,MODERN SPORTS CARS,RWD,345,3168,43000,7.1,6.6,7.2,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_178.jpg,2009 Lotus 2-ELEVEN,S1,813,TRACK TOYS,RWD,252,1642,130000,6.2,9.3,7.4,9.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_387.jpg,2005 Lotus ELISE 111S,B,650,RETRO SPORTS CARS,RWD,155,1777,45000,5.7,7.0,6.3,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_193.jpg,2002 Lotus ESPRIT V8,A,756,RETRO SUPERCARS,RWD,350,2851,42000,7.3,6.6,7.0,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_220.jpg,2000 Lotus 340R,A,706,RETRO SPORTS CARS,RWD,177,1486,40000,5.6,7.6,7.1,7.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_599.jpg?v=1,1999 Lotus ELISE SERIES 1 SPORT 190,A,728,RETRO SPORTS CARS,RWD,190,1477,81000,6.1,6.9,7.2,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_506.jpg,1997 Lotus ELISE GT1,S1,815,TRACK TOYS,RWD,350,2425,1800000,6.8,8.6,7.2,9.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_502.jpg,1971 Lotus ELAN SPRINT,D,456,CLASSIC SPORTS CARS,RWD,126,1640,57000,5.5,5.0,5.3,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_406.jpg,1956 Lotus ELEVEN,C,553,CLASSIC RACERS,RWD,83,1080,140000,5.7,5.7,5.3,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_585.jpg?v=1,2017 Maserati Levante S,A,723,SPORTS UTILITY HEROES,AWD,424,4650,290000,7.2,5.9,6.7,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_626.jpg?v=1,2014 Maserati GHIBLI S Q4,A,737,SUPER SALOONS,AWD,404,4123,250000,7.3,6.1,7.2,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_474.jpg,2010 Maserati GRAN TURISMO S,A,727,GT CARS,RWD,432,4147,156000,7.4,6.3,6.6,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_623.jpg?v=1,2008 Maserati VERSIONE CORSA,S2,993,EXTREME TRACK TOYS,RWD,756,2646,2500000,8.1,10.0,8.9,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_011.jpg,2004 Maserati MC12,S1,861,RETRO SUPERCARS,RWD,623,3375,1000000,8.4,8.0,7.5,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_094.jpg,2004 Maserati MC12 FORZA EDITION,S2,945,EXTREME TRACK TOYS,RWD,623,2756,1250000,8.4,10.0,8.8,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_405.jpg,1961 Maserati TIPO 61 BIRDCAGE,A,747,CLASSIC RACERS,RWD,251,1323,2400000,7.0,5.9,6.3,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_239.jpg,1957 Maserati 300 S,B,668,CLASSIC RACERS,RWD,260,1940,6000000,6.2,5.3,5.8,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_257.jpg,1953 Maserati A6GCS/53 PININFARINA BERLINETTA,D,486,RARE CLASSICS,RWD,170,1984,2000000,5.5,4.8,4.7,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_349.jpg,1939 Maserati 8CTF,B,648,VINTAGE RACERS,RWD,359,1764,10000000,7.3,5.2,5.4,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_228.jpg,2016 Mazda MX-5,B,625,MODERN SPORTS CARS,RWD,155,2310,35000,6.2,6.2,6.3,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_048.jpg,2013 Mazda MX-5,C,525,MODERN SPORTS CARS,RWD,168,2593,26000,5.7,5.5,5.7,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_229.jpg,2011 Mazda RX-8 R3,B,638,MODERN SPORTS CARS,RWD,232,3064,27000,6.5,6.0,6.1,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_044.jpg,2005 Mazda MAZDASPEED MX-5,B,605,RETRO SPORTS CARS,RWD,178,2529,25000,5.9,6.1,5.2,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_519.jpg?v=1,2002 Mazda RX-7 SPIRIT R TYPE-A,A,711,RETRO SPORTS CARS,RWD,276,2800,30000,7.1,6.2,6.3,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_222.jpg,1997 Mazda RX-7,B,681,RETRO SPORTS CARS,RWD,261,2831,35000,7.2,6.0,6.3,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_043.jpg,1994 Mazda MX-5 MIATA,D,428,RETRO SPORTS CARS,RWD,127,2330,25000,5.5,4.9,5.2,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_218.jpg,1990 Mazda SAVANNA RX-7,C,561,RETRO SPORTS CARS,RWD,200,2981,25000,6.5,5.3,6.0,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_701.jpg?v=1,1985 Mazda RX-7 GSL-SE,D,427,RETRO SPORTS CARS,RWD,135,2575,250000,5.7,4.7,5.2,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_752.jpg?v=1,1973 Mazda RX-3,D,365,CLASSIC SPORTS CARS,RWD,110,2059,250000,5.3,4.5,5.3,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_751.jpg?v=1,1972 Mazda COSMO 110S SERIES II,D,363,CLASSIC SPORTS CARS,RWD,127,2110,250000,5.5,4.5,4.9,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_650.jpg?v=1,2019 McLaren 720S SPIDER,S2,914,MODERN SUPERCARS,RWD,711,3157,250000,7.9,8.7,7.9,9.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_679.jpg?v=1,2019 McLaren SPEEDTAIL,S2,940,HYPERCARS,RWD,1035,3307,2250000,9.7,8.5,7.9,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_651.jpg?v=1,2018 McLaren 600LT COUPE,S1,890,TRACK TOYS,RWD,591,2994,250000,7.8,8.5,7.7,9.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_186.jpg,2018 McLaren 720S COUPE,S2,929,MODERN SUPERCARS,RWD,710,2950,340000,8.6,8.9,7.9,9.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_185.jpg,2018 McLaren 720S COUPE PREORDER CAR,S2,998,MODERN SUPERCARS,RWD,901,2425,340000,9.2,10.0,8.6,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_203.jpg,2018 McLaren SENNA,S2,977,HYPERCARS,RWD,788,2800,1000000,8.4,10.0,8.7,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_356.jpg,2015 McLaren 570S COUPE,S1,848,MODERN SUPERCARS,RWD,562,3016,224000,7.8,7.5,7.3,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_189.jpg,2015 McLaren 650S COUPE,S1,877,MODERN SUPERCARS,RWD,641,3148,420000,7.8,7.9,7.5,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_534.jpg?v=1,2014 McLaren 650S Spider,S1,873,MODERN SUPERCARS,RWD,641,3236,420000,7.8,7.9,7.5,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_207.jpg,2013 McLaren P1,S2,962,HYPERCARS,RWD,902,3296,1350000,9.3,9.3,7.9,9.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_635.jpg?v=1,2011 McLaren 12C COUPE,S1,854,MODERN SUPERCARS,RWD,591,3031,250000,8.1,7.5,7.3,7.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_195.jpg,1997 McLaren F1 GT,S1,888,RETRO SUPERCARS,RWD,618,2469,5200000,8.7,8.3,7.6,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_364.jpg,1993 McLaren F1,S1,826,RETRO SUPERCARS,RWD,627,2840,2000000,9.0,6.9,7.3,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_687.jpg?v=1,2018 Mercedes-AMG E 63 S,S1,805,SUPER SALOONS,AWD,603,4515,250000,8.0,6.5,9.3,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_611.jpg?v=1,2018 Mercedes-AMG GT 4-DOOR COUPE,A,797,SUPER SALOONS,AWD,630,4508,105000,8.3,6.2,9.1,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_142.jpg,2017 Mercedes-AMG GT R PREORDER CAR,S1,900,SUPER GT,RWD,621,2976,295000,7.9,8.5,7.8,9.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_316.jpg,2017 Mercedes-AMG GTR,S1,858,SUPER GT,RWD,576,3428,295000,7.6,7.9,7.3,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_237.jpg,2016 Mercedes-AMG C 63 S COUPE,A,777,SUPER SALOONS,RWD,503,3968,90000,7.5,6.6,6.4,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_477.jpg,2015 Mercedes-AMG GT S,S1,820,SUPER GT,RWD,503,3574,157000,7.6,7.3,7.1,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_612.jpg?v=1,2018 Mercedes-Benz X-CLASS,D,417,OFFROAD,AWD,188,4764,65000,5.2,5.5,4.4,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_637.jpg?v=1,2017 Mercedes-Benz E 350 D 4Matic All-Terrain Project E-AT,C,578,OFFROAD,AWD,257,4542,250000,5.7,5.6,5.9,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_182.jpg,2015 Mercedes-Benz #24 TANKPOOL24 RACING TRUCK,B,682,TRUCKS,RWD,1079,12125,500000,6.0,6.0,6.9,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_636.jpg?v=1,2014 Mercedes-Benz G 63 AMG 6x6,B,674,OFFROAD,AWD,536,9050,250000,6.4,6.6,5.7,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_351.jpg,2014 Mercedes-Benz UNIMOG U5023,D,163,TRUCKS,AWD,228,15432,100000,3.8,6.4,3.4,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_267.jpg,2013 Mercedes-Benz A 45 AMG,A,722,SUPER HOT HATCH,AWD,355,3263,65000,7.3,6.1,8.0,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_057.jpg,2013 Mercedes-Benz E 63 AMG,A,777,SUPER SALOONS,AWD,576,4277,105000,8.1,6.2,8.4,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_157.jpg,2013 Mercedes-Benz G 65 AMG,A,712,OFFROAD,AWD,603,5688,261000,6.6,5.6,8.0,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_403.jpg,2012 Mercedes-Benz 63 AMG COUPE BLACK SERIES,A,792,SUPER SALOONS,RWD,509,3854,143000,8.1,6.6,6.4,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_453.jpg?v=5,2012 Mercedes-Benz SLK 55 AMG,A,766,MODERN SPORTS CARS,RWD,415,3338,78000,7.7,6.5,6.6,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_141.jpg,2011 Mercedes-Benz SLS AMG,S1,822,SUPER GT,RWD,571,3571,200000,8.1,6.9,6.9,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_317.jpg,2009 Mercedes-Benz 65 AMG BLACK SERIES,S1,820,SUPER GT,RWD,661,4215,210000,8.2,7.0,6.7,7.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_143.jpg,2009 Mercedes-Benz SL 65 AMG BLACK SERIES FORZA EDITION,S1,820,SUPER GT,RWD,661,4215,460000,8.2,7.0,6.7,7.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_363.jpg,1998 Mercedes-Benz AMG CLK GTR,S1,848,RETRO SUPERCARS,RWD,622,3175,2000000,7.7,7.8,7.2,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_028.jpg,1990 Mercedes-Benz 190E 2.5-16 EVOLUTION II,C,579,RETRO SALOONS,RWD,235,2954,150000,6.6,5.3,5.7,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_723.jpg?v=1,1987 Mercedes-Benz AMG HAMMER COUPE,A,701,RETRO SALOONS,RWD,380,3640,250000,7.8,5.7,5.9,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_584.jpg?v=1,1967 Mercedes-Benz 280 SL,D,448,RARE CLASSICS,RWD,180,3120,150000,5.6,4.6,4.8,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_245.jpg,1955 Mercedes-Benz 300 SLR,A,708,CLASSIC RACERS,RWD,310,1984,8000000,7.1,5.8,6.1,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_417.jpg,1954 Mercedes-Benz 300 SL COUPE,D,476,RARE CLASSICS,RWD,241,2961,1200000,6.0,4.5,5.4,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_350.jpg,1939 Mercedes-Benz W154,B,676,VINTAGE RACERS,RWD,483,2683,10000000,8.3,5.1,5.6,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_577.jpg?v=1,1929 Mercedes-Benz SUPER SPORT KURZ BARKER ROADSTER,D,229,RARE CLASSICS,RWD,200,3726,5000000,5.1,3.8,4.8,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_663.jpg?v=1,1970 Mercury COUGAR ELIMINATOR,C,548,CLASSIC MUSCLE,RWD,335,3435,250000,5.4,4.7,5.1,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_452.jpg,1949 Mercury COUPE,D,158,RODS AND CUSTOMS,RWD,110,3375,45000,4.6,3.9,4.4,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_415.jpg,1971 Meyers MANX,D,218,CULT CARS,RWD,60,1235,35000,4.3,4.8,4.8,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_309.jpg,1986 MG METRO 6R4,S1,852,RALLY MONSTERS,AWD,410,2271,125000,5.5,8.6,9.9,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_500.jpg,1966 MG MGB GT,D,316,CLASSIC SPORTS CARS,RWD,95,2359,30000,5.0,4.5,4.7,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_168.jpg,1958 MG MGA TWIN-CAM,D,222,CLASSIC SPORTS CARS,RWD,109,2191,40000,4.9,3.9,4.8,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_562.jpg?v=1,1938 MG TA Midget,D,100,CLASSIC SPORTS CARS,RWD,50,1821,50000,3.9,3.9,3.6,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_619.jpg?v=1,2018 Mini JOHN COOPER WORKS CONVERTIBLE,B,639,HOT HATCH,FWD,228,3064,250000,6.2,5.9,5.8,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_618.jpg?v=1,2018 Mini JOHN COOPER WORKS COUNTRYMAN ALL4,C,580,OFFROAD,AWD,228,3653,250000,5.9,5.6,5.6,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_620.jpg?v=3,2018 Mini X-RAID JOHN COOPER WORKS BUGGY,B,674,OFFROADS BUGGIES,RWD,341,4328,500000,5.4,6.4,6.5,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_484.jpg,2013 Mini X-RAID ALL4 RACING COUNTRYMAN,B,682,EXTREME OFFROAD,AWD,307,4299,500000,4.4,5.8,6.8,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_080.jpg,2012 Mini JOHN COOPER WORKS GP,B,642,HOT HATCH,FWD,214,2557,38000,6.2,5.8,5.8,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_081.jpg,2009 Mini JOHN COOPER WORKS,B,639,HOT HATCH,FWD,208,2701,25000,6.2,6.2,5.8,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_303.jpg,1965 Mini COOPER S,D,205,CLASSIC RALLY,FWD,75,1479,30000,4.7,4.0,4.5,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_573.jpg?v=1,2008 Mitsubishi Lancer Evo X GSR,B,678,MODERN RALLY,AWD,304,3395,27000,6.4,6.0,6.7,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_572.jpg?v=1,2006 Mitsubishi Lancer Evo IX MR,B,649,MODERN RALLY,AWD,286,3285,27000,6.7,5.9,6.4,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_571.jpg?v=1,2004 Mitsubishi Lancer Evo VIII MR,B,686,MODERN RALLY,AWD,304,3109,31000,6.9,5.9,7.2,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_570.jpg?v=1,1999 Mitsubishi Lancer Evo VI GSR,B,675,RETRO RALLY,AWD,280,2822,28000,6.3,5.9,7.1,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_569.jpg?v=1,1997 Mitsubishi GTO,B,602,RETRO SPORTS CARS,AWD,321,3704,20000,6.8,5.4,6.2,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_568.jpg?v=1,1995 Mitsubishi Eclipse GSX,C,543,RETRO SPORTS CARS,AWD,211,3199,25000,6.6,5.2,5.7,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_567.jpg?v=1,1992 Mitsubishi Galant VR4,C,532,RETRO RALLY,AWD,237,2976,25000,6.2,4.8,6.3,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_692.jpg?v=1,1988 Mitsubishi STARION ESI-R,C,555,RETRO SPORTS CARS,RWD,188,3086,250000,6.0,5.3,5.9,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_557.jpg?v=1,2018 Morgan Aero GT,S1,811,TRACK TOYS,RWD,362,2692,150000,7.2,7.9,7.1,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_412.jpg,2014 Morgan 3 WHEELER,D,450,CULT CARS,RWD,82,1199,50000,5.1,4.7,4.9,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_049.jpg,2010 Morgan AERO SUPERSPORTS,A,766,MODERN SPORTS CARS,RWD,362,2740,160000,7.1,6.3,6.6,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_621.jpg?v=1,1965 Morris MINI-TRAVELLER,D,100,VANS AND UTILITY,FWD,35,1486,250000,3.7,4.0,3.5,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_069.jpg,1958 Morris MINOR 1000,D,100,CULT CARS,RWD,38,1764,20000,4.0,3.9,3.6,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_551.jpg?v=2,1953 Morris Minor Series II Traveler,D,100,CULT CARS,RWD,30,1757,25000,3.5,3.9,3.3,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_564.jpg?v=1,2010 Mosler MT900S,S2,957,EXTREME TRACK TOYS,RWD,530,2480,320000,8.1,10.0,8.8,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_680.jpg?v=1,1933 Napier NAPIER-RAILTON,B,628,VINTAGE RACERS,RWD,565,4517,1000000,7.1,5.1,5.3,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_515.jpg,2018 Nissan SENTRA NISMO,C,588,SUPER SALOONS,FWD,188,3038,24000,5.8,6.1,5.8,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_005.jpg,2017 Nissan GT-R,S1,836,MODERN SUPERCARS,AWD,564,3933,132000,7.9,7.2,9.6,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_004.jpg,2017 Nissan GT-R PREORDER CAR,S1,900,MODERN SUPERCARS,AWD,564,2866,132000,7.9,8.5,10.0,9.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_158.jpg,2016 Nissan TITAN WARRIOR CONCEPT,D,491,OFFROAD,AWD,310,7388,50000,5.6,5.0,5.0,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_323.jpg,2016 Nissan TITAN WARRIOR CONCEPT FORZA EDITION,C,583,EXTREME OFFROAD,AWD,310,6986,300000,5.6,6.2,5.2,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_001.jpg,2012 Nissan GT-R BLACK EDITION,S1,820,MODERN SUPERCARS,AWD,542,3887,105000,8.0,6.8,9.4,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_394.jpg,2010 Nissan 370Z,A,716,MODERN SPORTS CARS,RWD,332,3267,40000,7.2,6.3,6.2,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_037.jpg,2003 Nissan FAIRLADY Z,B,671,RETRO SPORTS CARS,RWD,287,3309,35000,7.1,6.0,6.1,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_036.jpg,2002 Nissan SKYLINE GT-R V-SPEC II,B,691,RETRO SPORTS CARS,AWD,327,3439,63000,6.8,6.0,6.5,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_383.jpg,2000 Nissan SILVIA SPEC-R,B,643,RETRO SPORTS CARS,RWD,249,2734,35000,6.6,6.1,6.1,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_365.jpg,1998 Nissan R390,S1,877,RETRO SUPERCARS,RWD,550,2264,730000,7.6,8.2,7.3,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_042.jpg,1998 Nissan SILVIA K’S AERO,C,593,RETRO SPORTS CARS,RWD,217,2789,25000,6.5,5.5,5.9,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_390.jpg,1997 Nissan SKYLINE GT-R V-SPEC,B,633,RETRO SPORTS CARS,AWD,277,3393,37000,6.9,5.6,6.5,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_223.jpg,1995 Nissan NISMO GT-R LM,B,685,RETRO SPORTS CARS,RWD,300,3483,1100000,6.6,6.4,6.0,5.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_271.jpg,1995 Nissan NISMO GT-R LM FORZA EDITION,S1,886,EXTREME TRACK TOYS,RWD,450,2535,1350000,7.3,10.0,7.8,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_591.jpg?v=1,1994 Nissan FAIRLADY Z VERSION S TWIN TURBO,B,655,RETRO SPORTS CARS,RWD,276,3351,250000,6.7,6.0,6.0,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_389.jpg,1994 Nissan SILVIA K’S,C,600,RETRO SPORTS CARS,RWD,217,2789,25000,6.5,5.4,5.9,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_386.jpg,1993 Nissan 240SX SE,D,449,RETRO SPORTS CARS,RWD,155,2915,25000,5.9,4.8,5.1,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_224.jpg,1993 Nissan SKYLINE GT-R V-SPEC,B,620,RETRO SPORTS CARS,AWD,320,3307,85000,6.5,5.4,6.2,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_040.jpg,1992 Nissan SILVIA CLUB K’S,C,525,RETRO SPORTS CARS,RWD,202,2535,25000,6.2,4.9,5.5,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_693.jpg?v=1,1990 Nissan PULSAR GTI-R,C,598,RETRO RALLY,AWD,227,2734,250000,6.2,5.2,7.1,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_219.jpg,1987 Nissan SKYLINE GTS-R (R31),C,538,RETRO SPORTS CARS,RWD,206,2965,100000,6.4,4.9,5.7,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_167.jpg,1973 Nissan SKYLINE H/T 2000GT-R,D,494,CLASSIC SPORTS CARS,RWD,158,2524,170000,5.6,5.0,5.2,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_338.jpg,1971 Nissan SKYLINE 2000GT-R,D,455,CLASSIC SPORTS CARS,RWD,160,2425,60000,5.6,4.6,5.4,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_169.jpg,1969 Nissan FAIRLADY Z 432,D,439,CLASSIC SPORTS CARS,RWD,160,2308,150000,5.4,4.7,5.4,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_022.jpg,2010 Noble M600,S1,900,HYPERCARS,RWD,650,2756,450000,8.8,8.8,7.8,9.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_280.jpg,1969 Oldsmobile HURST/OLDS 442,C,520,CLASSIC MUSCLE,RWD,383,3856,65000,5.8,4.4,5.0,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_305.jpg,1984 Opel MANTA 400,A,740,RALLY MONSTERS,RWD,275,2183,100000,6.6,6.8,6.3,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_579.jpg?v=1,1963 Opel Kadett A,D,100,CULT CARS,RWD,46,1543,25000,4.2,3.9,3.8,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_020.jpg,2016 Pagani HUAYRA BC,S2,961,HYPERCARS,RWD,740,2685,1500000,8.9,9.8,8.0,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_021.jpg,2012 Pagani HUAYRA,S1,900,HYPERCARS,RWD,700,3153,1300000,8.8,8.4,7.4,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_434.jpg,2010 Pagani ZONDA R,S2,966,EXTREME TRACK TOYS,RWD,739,2535,1700000,8.2,10.0,8.2,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_435.jpg,2010 Pagani ZONDA R FORZA EDITION,S2,986,EXTREME TRACK TOYS,RWD,972,2535,1950000,8.9,10.0,8.1,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_373.jpg,2009 Pagani ZONDA CINQUE ROADSTER,S2,908,HYPERCARS,RWD,678,2857,2100000,7.8,9.5,7.4,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_538.jpg?v=2,1965 Peel Trident,D,100,CULT CARS,RWD,4,353,25000,3.0,3.0,3.2,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_073.jpg,1962 Peel P50,D,100,CULT CARS,RWD,4,311,20000,3.0,3.0,3.2,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_164.jpg,2011 Penhall THE CHOLLA,B,646,OFFROADS BUGGIES,RWD,196,2200,100000,5.1,6.4,7.2,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_744.jpg?v=1,2007 Peugeot 207 SUPER 2000,A,771,RALLY MONSTERS,AWD,280,2425,250000,6.1,7.8,7.4,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_691.jpg?v=2,1991 Peugeot 205 RALLYE,C,504,RETRO HOT HATCH,FWD,99,1742,250000,5.3,5.6,4.8,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_125.jpg,1984 Peugeot 205 T16,C,597,RETRO RALLY,AWD,200,2524,200000,5.8,5.4,6.0,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_468.jpg,1984 Peugeot 205 TURBO 16 FORZA EDITION,A,703,RALLY MONSTERS,AWD,200,2315,450000,5.8,7.1,6.3,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_281.jpg,1971 Plymouth CUDA 426 HEMI,C,560,CLASSIC MUSCLE,RWD,425,3880,160000,6.4,4.7,5.2,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_610.jpg?v=1,1970 Plymouth Hemi Cuda Convertible Barrett-Jackson Edition,B,689,CLASSIC MUSCLE,RWD,425,3965,55000,6.4,5.6,5.7,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_609.jpg?v=1,1959 Plymouth Atomic Punk Bubbletop,A,717,RODS AND CUSTOMS,RWD,451,2700,105000,7.1,5.8,6.2,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_613.jpg?v=1,1958 Plymouth FURY,C,518,RODS AND CUSTOMS,RWD,304,3596,250000,6.1,4.5,5.1,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_334.jpg,2015 Polaris RZR XP1000 EPS,D,464,OFFROADS BUGGIES,AWD,110,1530,25000,4.5,5.8,5.5,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_293.jpg,1987 Pontiac FIREBIRD TRANS AM GTA,C,505,RETRO MUSCLE,RWD,210,3483,25000,6.2,4.8,5.4,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_282.jpg,1977 Pontiac FIREBIRD TRANS AM,D,431,CLASSIC MUSCLE,RWD,201,3801,45000,6.0,4.5,5.0,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_445.jpg,1973 Pontiac FIREBIRD TRANS AM SD-455,C,536,CLASSIC MUSCLE,RWD,373,3695,61000,6.3,4.7,5.1,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_444.jpg,1969 Pontiac GTO JUDGE,C,514,CLASSIC MUSCLE,RWD,365,3622,90000,5.8,4.4,5.0,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_747.jpg?v=1,1968 Pontiac FIREBIRD,C,509,CLASSIC MUSCLE,RWD,335,3549,250000,5.9,4.4,5.0,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_600.jpg?v=1,1965 Pontiac GTO,C,514,CLASSIC MUSCLE,RWD,359,3468,48000,5.6,4.3,5.0,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_574.jpg?v=1,2019 Porsche 911 Carrera S,S1,840,MODERN SPORTS CARS,RWD,444,3340,105000,7.8,8.1,7.4,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_507.jpg,2019 Porsche 911 GT3 RS,S2,915,TRACK TOYS,RWD,513,3153,255000,8.3,9.7,8.3,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_644.jpg?v=1,2019 Porsche MACAN TURBO,A,720,SPORTS UTILITY HEROES,AWD,434,4277,250000,6.9,5.9,7.3,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_645.jpg?v=1,2018 Porsche 718 CAYMAN GTS,S1,808,MODERN SPORTS CARS,RWD,361,3135,250000,7.3,7.5,7.3,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_346.jpg,2018 Porsche 911 GT2 RS,S2,910,TRACK TOYS,RWD,690,3197,315000,8.2,8.8,8.4,9.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_155.jpg,2018 Porsche CAYENNE TURBO,A,769,SPORTS UTILITY HEROES,AWD,550,4795,220000,7.2,6.5,8.7,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_404.jpg,2017 Porsche PANAMERA TURBO,A,789,SUPER SALOONS,AWD,550,4398,150000,7.9,6.6,8.5,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_175.jpg,2016 Porsche 911 GT3 RS,S2,904,TRACK TOYS,RWD,493,3131,235000,8.0,9.6,8.4,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_174.jpg,2016 Porsche 911 GT3 RS PREORDER CAR,S2,998,TRACK TOYS,RWD,855,2756,235000,8.6,10.0,8.7,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_348.jpg,2016 Porsche CAYMAN GT4,S1,840,TRACK TOYS,RWD,385,2954,85000,7.5,8.3,7.8,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_395.jpg,2015 Porsche CAYMAN GTS,A,791,MODERN SPORTS CARS,RWD,340,2965,80000,7.1,7.2,7.0,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_151.jpg,2015 Porsche MACAN TURBO,A,708,SPORTS UTILITY HEROES,AWD,399,4244,105000,6.7,6.0,7.0,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_352.jpg,2014 Porsche 911 TURBO S,S1,827,MODERN SUPERCARS,AWD,560,3607,150000,8.3,6.6,9.1,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_027.jpg,2014 Porsche 918 SPYDER,S2,942,HYPERCARS,AWD,886,3693,850000,8.9,9.2,10.0,9.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_344.jpg,2012 Porsche 911 GT2 RS,S1,882,TRACK TOYS,RWD,611,3020,240000,8.0,8.3,8.7,8.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_176.jpg,2012 Porsche 911 GT3 RS 4.0,S1,847,TRACK TOYS,RWD,493,2998,200000,7.8,8.1,8.6,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_324.jpg,2012 Porsche CAYENNE TURBO,A,740,SPORTS UTILITY HEROES,AWD,500,4784,110000,7.1,6.0,7.7,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_017.jpg,2004 Porsche 911 GT3,S1,803,RETRO SUPERCARS,RWD,381,3159,65000,7.5,7.2,7.8,7.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_201.jpg,2003 Porsche CARRERA GT,S1,866,RETRO SUPERCARS,RWD,605,3258,400000,8.0,8.1,7.5,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_200.jpg,1998 Porsche 911 GT1 STRASSENVERSION,S1,850,RETRO SUPERCARS,RWD,536,2646,2500000,7.6,8.2,7.1,8.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_683.jpg?v=1,1995 Porsche 911 CARRERA 2 BY GUNTHER WERKS,S1,823,MODERN SPORTS CARS,RWD,430,2676,500000,7.2,7.6,6.3,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_368.jpg,1995 Porsche 911 GT2,A,774,RETRO SUPERCARS,RWD,424,2855,550000,7.1,6.6,7.6,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_750.jpg?v=1,1993 Porsche 928 GTS,B,698,RETRO SPORTS CARS,RWD,345,3594,250000,7.0,5.9,6.6,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_575.jpg?v=2,1993 Porsche 968 Turbo S,A,716,RETRO SPORTS CARS,RWD,304,2866,140000,6.9,6.1,6.6,8.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_724.jpg?v=1,1990 Porsche 911 REIMAGINED BY SINGER,S1,855,TRACK TOYS,RWD,493,2315,1800000,8.0,7.4,8.5,7.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_384.jpg,1989 Porsche 944 TURBO,B,659,RETRO SPORTS CARS,RWD,247,3115,35000,6.5,5.9,6.5,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_367.jpg,1987 Porsche 959,A,784,RETRO SUPERCARS,AWD,450,3190,400000,7.7,6.3,9.0,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_516.jpg?v=1,1985 Porsche #185 959 PRODRIVE RALLY RAID5,A,779,RALLY MONSTERS,AWD,394,3322,205000,6.8,6.9,8.8,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_018.jpg,1982 Porsche 911 TURBO 3.3,B,688,RETRO SUPERCARS,RWD,296,2866,150000,6.4,5.9,6.5,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_253.jpg,1973 Porsche 911 CARRERA RS,B,631,RARE CLASSICS,RWD,206,2449,200000,6.1,5.7,6.7,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_407.jpg,1971 Porsche #23 917/20,S1,861,CLASSIC RACERS,RWD,601,2004,10000000,8.3,7.1,8.0,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_646.jpg?v=1,1970 Porsche #3 917 LH,S1,868,CLASSIC RACERS,RWD,601,2044,250000,8.5,7.0,8.0,6.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_601.jpg?v=1,1970 Porsche 914/6,D,408,CLASSIC SPORTS CARS,RWD,125,2196,24000,5.3,4.7,5.2,4.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_647.jpg?v=1,1966 Porsche 906 CARRERA 6,A,748,CLASSIC RACERS,RWD,211,1360,250000,6.8,6.5,6.9,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_672.jpg?v=1,1964 Porsche 356 C CABRIOLET EMORY SPECIAL,B,687,CLASSIC SPORTS CARS,RWD,220,2150,250000,6.1,5.9,6.8,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_746.jpg?v=1,1960 Porsche 356 RSR FROM EMORY MOTORSPORT,S1,846,EXTREME TRACK TOYS,RWD,393,1951,250000,7.1,7.7,7.4,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_242.jpg,1960 Porsche 718 RS 60,A,716,CLASSIC RACERS,RWD,160,1281,1000000,6.3,6.5,6.7,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_710.jpg?v=1,1960 Porsche Welcome Pack 718 RS 60,A,800,CLASSIC RACERS,RWD,160,1281,1000000,6.6,7.4,7.2,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_520.jpg?v=1,1959 Porsche 356 A1600 SUPER,D,180,RARE CLASSICS,RWD,75,1931,240000,4.9,4.0,3.8,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_256.jpg,1957 Porsche 356A SPEEDSTER,D,185,RARE CLASSICS,RWD,60,1676,300000,4.7,4.1,4.1,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_409.jpg,1955 Porsche 550A SPYDER,D,387,CLASSIC RACERS,RWD,109,1510,600000,5.9,4.2,5.4,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_648.jpg?v=1,1951 Porsche #46 356 SL GMÜND COUPE,D,199,CLASSIC RACERS,RWD,46,1411,250000,4.6,4.8,3.9,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_732.jpg?v=1,2058 Quadra TURBO-R V-TECH,S1,890,MODERN SUPERCARS,AWD,607,2756,1000000,7.8,8.4,8.5,8.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_589.jpg?v=1,723 Quartz REGALIA,B,675,GT CARS,AWD,433,5622,500000,6.2,5.9,7.0,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_590.jpg?v=1,723 Quartz REGALIA TYPE-D,C,597,EXTREME OFFROAD,AWD,433,6063,500000,5.0,6.5,6.7,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_270.jpg,2015 Radical RXC TURBO,S2,958,EXTREME TRACK TOYS,RWD,454,2072,330000,7.3,10.0,8.0,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_745.jpg?v=1,2019 RAESR TACHYON SPEED,S2,969,HYPERCARS,AWD,1251,3199,1050000,8.7,8.5,6.9,8.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_546.jpg?v=3,2017 RAM 1500 Rebel TRX Concept,A,716,OFFROAD,AWD,575,5320,100000,6.0,6.2,7.7,6.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_328.jpg,2017 RAM 2500 POWER WAGON,C,518,OFFROAD,AWD,410,7044,47000,6.1,5.2,4.7,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_250.jpg,1972 Reliant SUPERVAN III,D,100,CULT CARS,RWD,32,1003,35000,3.9,3.3,4.1,3.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_668.jpg?v=1,2018 Renault MEGANE R.S.,A,702,SUPER HOT HATCH,FWD,275,3153,250000,6.5,7.0,6.0,7.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_667.jpg?v=1,2016 Renault CLIO R.S. 16 CONCEPT,A,731,SUPER HOT HATCH,FWD,270,2657,250000,6.4,7.3,6.5,7.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_425.jpg,2013 Renault CLIO R.S. 200 EDC,B,606,HOT HATCH,FWD,197,2685,29000,5.9,6.0,6.0,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_423.jpg,2010 Renault CLIO R.S.,C,598,HOT HATCH,FWD,197,2654,25000,5.9,5.8,5.8,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_345.jpg,2010 Renault CLIO R.S. FORZA EDITION,A,701,TRACK TOYS,FWD,197,2654,275000,5.9,7.7,6.2,7.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_431.jpg,2010 Renault MEGANE R.S. 250,B,666,SUPER HOT HATCH,FWD,249,3058,30000,6.3,6.4,6.1,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_666.jpg?v=1,2008 Renault MEGANE R26.R,A,704,SUPER HOT HATCH,FWD,227,2712,250000,6.2,7.0,6.3,7.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_665.jpg?v=1,2007 Renault CLIO RS 197,C,592,HOT HATCH,FWD,193,2734,250000,5.9,6.1,5.6,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_664.jpg?v=1,2003 Renault SPORT CLIO V6,B,627,HOT HATCH,RWD,251,3086,250000,6.3,5.9,5.9,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_262.jpg,1993 Renault CLIO WILLIAMS,C,502,RETRO HOT HATCH,FWD,142,2233,30000,5.6,5.2,5.7,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_300.jpg,1980 Renault 5 TURBO,C,512,RETRO RALLY,RWD,157,2138,120000,5.5,5.0,6.3,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_134.jpg,1980 Renault 5 TURBO FORZA EDITION,B,675,RALLY MONSTERS,RWD,157,2138,316000,5.5,8.0,6.3,7.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_467.jpg,1973 Renault ALPINE A110 1600S,C,522,CLASSIC RALLY,RWD,123,1576,98000,5.9,5.1,5.8,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_627.jpg?v=1,2019 Rimac CONCEPT TWO,S2,994,HYPERCARS,AWD,1887,4299,2000000,9.3,8.1,10.0,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_482.jpg,2016 RJ Anderson #37 POLARIS RZR-ROCKSTAR ENERGY,S1,815,EXTREME OFFROAD,RWD,850,3750,500000,6.6,6.7,6.2,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_656.jpg?v=1,2010 Rossion Q1,S1,855,MODERN SUPERCARS,RWD,451,2674,250000,7.5,8.3,7.6,8.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_677.jpg?v=1,1984 Rover SD1 Vitesse,D,498,RETRO SALOONS,RWD,190,3197,250000,5.8,5.1,5.0,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_753.jpg?v=1,2018 Saleen S1,S1,837,MODERN SUPERCARS,RWD,451,2685,250000,7.0,8.0,7.9,8.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_550.jpg?v=1,2010 Saleen S5S Raptor,S1,873,MODERN SUPERCARS,RWD,650,3364,180000,8.4,8.0,7.9,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_014.jpg,2004 Saleen S7,S1,879,RETRO SUPERCARS,RWD,575,2756,388000,8.3,8.2,7.8,8.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_737.jpg?v=1,2012 Shelby 1000,A,782,MODERN MUSCLE,RWD,920,3799,105000,8.7,6.0,6.2,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_422.jpg,1965 Shelby COBRA 427 S/C,B,700,RARE CLASSICS,RWD,425,2350,2100000,6.6,5.4,5.9,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_240.jpg,1965 Shelby COBRA DAYTONA COUPE,B,645,CLASSIC RACERS,RWD,390,2299,8000000,7.3,5.0,5.5,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_604.jpg?v=1,1963 Shelby Monaco King Cobra,S1,837,CLASSIC RACERS,RWD,400,1300,550000,7.4,7.2,7.1,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_355.jpg,2016 Spania GTA GTA SPANO,S2,931,MODERN SUPERCARS,RWD,912,3197,800000,9.0,8.7,7.7,9.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_714.jpg?v=1,2016 Subaru  Welcome Pack  #199 WRX STI VT15R RALLY CAR,A,800,RALLY MONSTERS,AWD,366,2899,300000,6.1,7.3,9.2,7.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_470.jpg,2016 Subaru #199 WRX STI VT15R RALLY CAR,A,762,RALLY MONSTERS,AWD,330,2899,300000,5.9,7.7,8.8,8.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_135.jpg,2015 Subaru WRX STI,B,693,MODERN RALLY,AWD,304,3386,42000,6.7,6.0,7.0,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_227.jpg,2013 Subaru BRZ,C,562,MODERN SPORTS CARS,RWD,200,2765,32000,6.4,5.2,5.8,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_473.jpg,2011 Subaru WRX STI,B,682,MODERN RALLY,AWD,304,3384,33000,6.7,6.0,6.7,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_136.jpg,2008 Subaru IMPREZA WRX STI,B,681,MODERN RALLY,AWD,304,3395,31000,6.4,6.0,6.9,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_311.jpg,2005 Subaru IMPREZA WRX STI,B,694,MODERN RALLY,AWD,311,3316,51000,6.7,5.9,7.7,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_310.jpg,2004 Subaru IMPREZA WRX STI,B,670,MODERN RALLY,AWD,277,3269,28000,6.6,5.8,7.5,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_124.jpg,1998 Subaru IMPREZA 22B STI,B,650,RETRO RALLY,AWD,276,2800,110000,6.4,6.0,6.6,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_301.jpg,1990 Subaru LEGACY RS,C,503,RETRO RALLY,AWD,217,2989,25000,6.1,4.8,5.6,4.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_337.jpg,1967 Sunbeam TIGER,D,500,CLASSIC SPORTS CARS,RWD,200,2560,65000,5.8,4.5,5.6,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_129.jpg,1979 Talbot SUNBEAM LOTUS,D,469,CLASSIC RALLY,RWD,148,2116,25000,5.3,4.6,5.4,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_226.jpg,2017 TAMO RACEMO,C,577,MODERN SPORTS CARS,RWD,188,2293,600000,5.9,5.7,6.1,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_156.jpg,2014 Terradyne GURKHA LAPV,D,223,OFFROAD,AWD,299,16499,450000,5.0,5.1,3.5,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_638.jpg?v=1,2018 Top Gear TRACK-TOR,C,577,EXTREME OFFROAD,RWD,500,5501,250000,5.2,6.9,6.8,5.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_320.jpg,2016 Toyota LAND CRUISER ARCTIC TRUCKS AT37,D,444,EXTREME OFFROAD,AWD,161,4993,83000,5.0,6.3,4.3,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_719.jpg?v=1,2013 Toyota GT86,C,562,MODERN SPORTS CARS,RWD,197,2734,250000,6.2,5.2,5.8,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_146.jpg,2007 Toyota HILUX ARCTIC TRUCKS AT38,C,516,EXTREME OFFROAD,AWD,169,4740,55000,5.0,6.7,4.6,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_669.jpg?v=1,1998 Toyota SUPRA RZ,B,693,RETRO SPORTS CARS,RWD,321,3329,250000,7.1,6.1,6.2,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_696.jpg?v=1,1995 Toyota MR2 GT,B,621,RETRO SPORTS CARS,RWD,241,2657,250000,6.8,5.3,6.6,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_688.jpg?v=1,1994 Toyota CELICA GT-FOUR ST205,C,595,RETRO RALLY,AWD,255,3175,250000,6.8,5.1,6.7,5.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_150.jpg,1993 Toyota #1 T100 BAJA TRUCK,A,732,EXTREME OFFROAD,RWD,359,3999,500000,5.6,6.6,7.4,6.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_712.jpg?v=1,1993 Toyota Welcome Pack #1 T100 BAJA TRUCK,A,800,EXTREME OFFROAD,RWD,469,3999,500000,7.1,7.1,8.6,6.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_689.jpg?v=1,1992 Toyota CELICA GT-FOUR RC ST185,C,577,RETRO RALLY,AWD,232,3219,250000,6.5,5.2,6.3,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_686.jpg?v=1,1992 Toyota SUPRA 2.0 GT TWIN TURBO,C,543,RETRO SPORTS CARS,RWD,207,3329,250000,6.2,5.1,5.8,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_697.jpg?v=1,1989 Toyota MR2 SC,D,481,RETRO SPORTS CARS,RWD,145,2619,250000,5.9,4.9,5.6,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_671.jpg?v=1,1985 Toyota SPRINTER TRUENO GT APEX,D,444,RETRO SPORTS CARS,RWD,129,2094,250000,5.4,4.7,5.6,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_694.jpg?v=1,1974 Toyota CELICA GT,D,312,CLASSIC SPORTS CARS,RWD,97,2392,250000,5.1,4.5,4.6,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_695.jpg?v=1,1974 Toyota COROLLA SR5,D,290,CULT CARS,RWD,89,2066,250000,4.8,4.5,4.2,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_681.jpg?v=1,1969 Toyota 2000 GT,D,447,CLASSIC SPORTS CARS,RWD,150,2551,750000,6.0,4.6,5.5,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_726.jpg?v=1,1979 Triumph TR7 ROADSTER,D,245,CLASSIC SPORTS CARS,RWD,93,2249,250000,5.0,4.7,4.2,4.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_558.jpg?v=1,1970 Triumph TR6 PI,D,419,CLASSIC SPORTS CARS,RWD,150,2438,25000,5.5,4.6,5.0,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_165.jpg,1962 Triumph SPITFIRE,D,203,CLASSIC SPORTS CARS,RWD,63,1828,20000,4.8,4.4,3.9,4.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_518.jpg,1962 Triumph TR3B,D,243,CLASSIC SPORTS CARS,RWD,105,2127,25000,5.0,3.9,5.0,3.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_587.jpg?v=1,2018 TVR GRIFFITH,S1,844,MODERN SPORTS CARS,RWD,480,2646,105000,7.7,7.9,6.9,8.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_039.jpg,2005 TVR SAGARIS,A,797,RETRO SPORTS CARS,RWD,406,2377,86000,7.2,7.1,6.4,7.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_041.jpg,2005 TVR SAGARIS FORZA EDITION,S2,902,RETRO SPORTS CARS,RWD,406,2377,336000,7.9,9.4,7.9,9.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_586.jpg?v=1,2001 TVR TUSCAN S,A,747,RETRO SUPERCARS,RWD,390,2425,250000,7.1,6.3,6.6,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_277.jpg,1998 TVR CERBERA SPEED 12,S1,874,EXTREME TRACK TOYS,RWD,800,2150,500000,9.0,7.7,6.6,7.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_100.jpg,2015 Ultima EVOLUTION COUPE 1020,S2,998,EXTREME TRACK TOYS,RWD,1020,2094,130000,9.0,10.0,8.6,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_083.jpg,2016 Vauxhall CORSA VXR,B,610,HOT HATCH,FWD,202,2851,28000,5.9,6.1,5.2,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_430.jpg,2012 Vauxhall ASTRA VXR,B,684,SUPER HOT HATCH,FWD,276,3252,25000,6.5,6.3,6.1,6.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_530.jpg?v=1,2010 Vauxhall INSIGNIA VXR,B,676,SUPER SALOONS,AWD,322,3880,42000,7.1,6.0,6.8,6.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_616.jpg?v=2,2009 Vauxhall CORSA VXR,C,600,HOT HATCH,FWD,189,2652,250000,6.1,5.9,5.3,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_120.jpg,2005 Vauxhall MONARO VXR,A,716,MODERN MUSCLE,RWD,398,3697,25000,7.6,6.0,6.2,5.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_531.jpg?v=1,2004 Vauxhall VX220 TURBO,A,717,MODERN SPORTS CARS,RWD,197,2050,20000,6.4,6.8,7.1,6.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_029.jpg,1990 Vauxhall LOTUS CARLTON,B,665,RETRO SALOONS,RWD,379,3642,70000,7.2,5.4,5.9,5.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_653.jpg?v=1,2018 Volkswagen #94 VOLKSWAGEN MOTORSPORT I.D R PIKES PEAK,S2,998,EXTREME TRACK TOYS,AWD,671,2425,250000,6.2,10.0,10.0,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_130.jpg,2017 Volkswagen #34 VOLKSWAGEN ANDRETTI RALLYCROSS BEETLE,S1,869,RALLY MONSTERS,AWD,554,2668,500000,5.7,7.8,10.0,8.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_306.jpg,2014 Volkswagen GLOBAL RALLYCROSS BEETLE,S1,846,RALLY MONSTERS,AWD,536,2668,500000,6.1,7.6,10.0,7.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_433.jpg,2014 Volkswagen GOLF R,B,672,SUPER HOT HATCH,AWD,296,3254,50000,6.6,6.0,7.3,5.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_260.jpg,2011 Volkswagen SCIROCCO R,B,678,HOT HATCH,FWD,261,2963,45000,6.5,6.2,6.0,6.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_092.jpg,2010 Volkswagen GOLF R,B,661,SUPER HOT HATCH,AWD,267,3188,64000,6.5,5.8,6.6,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_486.jpg,2008 Volkswagen TOUAREG R50,B,631,SPORTS UTILITY HEROES,AWD,346,5745,48000,6.4,5.9,5.5,6.3
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_424.jpg,2003 Volkswagen GOLF R32,B,630,HOT HATCH,AWD,241,3256,20000,6.4,5.8,6.6,5.4
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_086.jpg,1998 Volkswagen GTI VR6 MK3,C,512,RETRO HOT HATCH,FWD,172,2800,25000,5.9,5.1,5.5,5.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_088.jpg,1995 Volkswagen CORRADO VR6,C,535,RETRO HOT HATCH,FWD,178,2734,20000,6.2,5.2,5.5,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_428.jpg,1992 Volkswagen GOLF GTI16V MK2,D,454,RETRO HOT HATCH,FWD,139,2425,20000,5.5,5.0,5.2,4.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_263.jpg,1983 Volkswagen GOLF GTI,D,408,RETRO HOT HATCH,FWD,113,1909,20000,5.2,4.7,5.4,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_427.jpg,1981 Volkswagen SCIROCCO S,D,264,RETRO HOT HATCH,FWD,74,2015,20000,4.8,4.6,4.4,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_335.jpg,1970 Volkswagen #1107 DESERT DINGO RACING STOCKBUG,D,438,OFFROADS BUGGIES,RWD,92,2165,25000,4.8,6.0,4.7,5.2
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_497.jpg,1969 Volkswagen CLASS 5/1600 BAJA BUG,D,407,OFFROADS BUGGIES,RWD,80,2401,60000,4.6,6.3,4.5,6.1
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_643.jpg?v=1,1967 Volkswagen KARMANN GHIA,D,100,CULT CARS,RWD,54,1852,250000,4.2,4.5,3.7,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_642.jpg?v=1,1967 Volkswagen TYPE 3 1600 L,D,153,CULT CARS,RWD,64,2116,250000,4.6,4.5,3.8,4.5
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_561.jpg?v=1,1966 Volkswagen DOUBLE CAB PICK-UP,D,100,VANS AND UTILITY,RWD,54,2491,50000,3.8,4.0,3.6,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_416.jpg,1963 Volkswagen BEETLE,D,100,CULT CARS,RWD,40,1759,20000,4.1,4.0,3.7,3.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_071.jpg,1963 Volkswagen TYPE 2 DE LUXE,D,100,CULT CARS,RWD,51,2513,40000,3.8,4.0,3.6,3.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_414.jpg,1963 Volkswagen TYPE 2 DE LUXE FORZA EDITION,D,100,CULT CARS,RWD,51,2513,290000,3.8,5.9,3.6,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_513.jpg,2016 Volvo IRON KNIGHT,A,797,TRUCKS,RWD,2399,9921,800000,7.6,5.9,7.3,6.9
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_059.jpg,2015 Volvo V60 POLESTAR,B,652,SUPER SALOONS,AWD,346,3986,62000,6.8,5.5,7.0,5.7
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_377.jpg,1997 Volvo 850 R,C,544,RETRO SALOONS,FWD,240,3230,25000,6.5,5.0,5.1,4.6
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_465.jpg,1983 Volvo 242 TURBO EVOLUTION,C,512,CLASSIC RALLY,RWD,225,3175,45000,5.9,4.5,5.5,4.8
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_754.jpg?v=1,2017 VUHL 05RR,S2,926,EXTREME TRACK TOYS,RWD,385,1598,250000,6.9,10.0,9.1,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_204.jpg,2016 W Motors LYKAN HYPERSPORT,S2,907,HYPERCARS,RWD,780,3042,3400000,8.7,8.4,7.7,9.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_490.jpg,1945 WILLYS MB JEEP,D,100,OFFROAD,AWD,60,2136,40000,3.9,4.2,4.0,4.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_698.jpg?v=1,2019 Zenvo TSR-S,S2,972,HYPERCARS,RWD,1177,3411,1200000,8.9,9.9,8.2,10.0
+https://www.kudosprime.com/fh4/images/cars/side/fh4_car_371.jpg,2016 Zenvo ST1,S1,900,HYPERCARS,RWD,1086,3721,1000000,8.8,7.9,7.1,8.4
