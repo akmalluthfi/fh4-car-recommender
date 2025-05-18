@@ -70,5 +70,5 @@ def display_car_card(car):
                 f"**Speed:** :violet[{car['speed']}] &nbsp;&nbsp; "
                 f"**Handling:** :orange[{car['handling']}] &nbsp;&nbsp; "
                 f"**Accel:** :green[{car['acceleration']}] &nbsp;&nbsp; "
-                f"**Braking:** :blue"
+                f"**Braking:** :blue[{car['breaking']}]"
             )
